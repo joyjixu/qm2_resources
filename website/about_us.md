@@ -10,3 +10,8 @@ Hi - I'm Joy, a second-year BASc student majoring in Sciences and Engineering an
 I've grown up in many countries, including China, France, the UAE and Norway.
 
 Most of my modules are related to Mathematics and Physics, other than that some activities that I enjoy are figure skating, baking and illustration.
+
+## Salomé Welgryn
+I’m a 19 years old, Arts and Science student, majoring in Society and minoring in Health and Environment.
+I am a French student but I’ve been living in London for 5 years
+I am mainly studying Environment, Development and Psychology. I am passionate by music and photography. 
