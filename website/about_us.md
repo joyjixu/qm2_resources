@@ -14,5 +14,4 @@ Most of my modules are related to Mathematics and Physics, other than that some 
 ## Salomé 
 Hey! - I’m a 19 years old, Arts and Sciences student, majoring in Society and minoring in Health and Environment. I am mainly studying Environment, Development and Psychology.
 I am a French student but I’ve been living in Irland, Spain, an i have now been in London for 5 years.
-
 I am passionate by music and photography. 
