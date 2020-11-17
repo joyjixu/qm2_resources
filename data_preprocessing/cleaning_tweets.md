@@ -15,3 +15,7 @@ The libraries we used are Pandas, NumPy and Regex.
 ### Google Colab Notebook Link
 * https://colab.research.google.com/drive/1aros8J5HKntPZG3UlTKTEhl7AuKhBLNm?usp=sharing
 * A copy of the notebook is also included in this folder
+
+### Cleaned Tweets Folder
+* Shared on OneDrive
+* https://liveuclac.sharepoint.com/:f:/s/QM2ProjectGroup5/Em4AZyMSLlNChB7fzO9APXMBavwCPd6OFI5r4FxN_aWtyw?e=9btQ3D
