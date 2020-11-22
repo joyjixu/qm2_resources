@@ -11,6 +11,8 @@ I've grown up in many countries, including China, France, the UAE and Norway.
 
 Most of my modules are related to Mathematics and Physics, other than that some activities that I enjoy are figure skating, baking and illustration.
 
+# Safiyah
+Hi! I'm Safiyah, an Arts & Sciences student from London. I'm majoring in Societies, focusing on International Development, Law and Economics.
 ## Salomé 
 Hey! - I’m a 19 years old, Arts and Sciences student, majoring in Society and minoring in Health and Environment. I am mainly studying Environment, Development and Psychology.
 I am a French student but I’ve been living in Irland, Spain, an i have now been in London for 5 years.
