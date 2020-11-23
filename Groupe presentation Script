@@ -1,0 +1,88 @@
+Slide 1: Joy
+Hi everyone, today we are presenting our research proposal, looking at the reality of covid 19 in terms of total deaths vs the perception of the virus on Twitter, using sentiment analysis
+
+Slide: salomé
+
+First we are gonna look at the literature
+We should clarify what is sentimental analysist
+Sentimental analysis consists of categorizing opinions expressed by people in their tweets. In this case sentimental analysis would be positive, negative or neutral
+We will then be able to visualize it on maps.
+
+Slide 2-5: Safiyah
+
+There are few articles looking at the sentiment analysis of tweets relating to COVID-19.
+
+One example was conducted over 1 week in March on a global scale, using two hashtags #COVID-19 and #Coronavirus.
+
+This is another graph showing external factors, such as announcements of lockdowns such as in Italy and first reported deaths causes rises in the number of related tweets, showing that the reality of COVID-19 had some relationship with the online sentiment.
+
+Our study aims to build on this research to both fill knowledge gaps and add to the existing stock of knowledge. 
+
+Our research question asks “What is the relationship between the sentiment score of tweets relating to the COVID-19 across states in the US and its severity (measured in this case by total deaths) in April 2020?”
+
+Our specific aims are to Understand whether, and the extent to which, the positivity and negativity of tweets is influenced by, or independent of, reality
+
+we specifically aim to understand a) the relationship between total deaths and the sentiment scores of tweets, as well as b) the relationship between imposed COVID-19 state regulations and the sentiment scores of tweets. 
+
+We have outlined the following objectives to help achieve this aim, involving data processing, analysis and visualisations
+(ignore)
+First, we will pre-process and perform sentiment analysis on tweets collected from the dataset in order to obtain sentiment scores
+We will then analyse the correlation between the daily change in the number of total COVID-19 deaths and sentiment scores of the tweets over the month of April
+Finally, we will analyse the relationship between the implementation of COVID-19 regulations by one state, and the sentiment scores of tweets for that state
+
+
+
+Slide 7: Macrina
+
+
+
+Slide 8-11: Data Analysis - Joy
+Now we will move on to the data analysis
+We are going to use three main datasets
+
+Hydrating: the dataset on covid tweets consists of lists of tweet ids, rather than the tweet itself. We will be using an executable application called hydrator, to hydrate these tweets ids. This means using twitter’s apis to fetch the tweet text and metadata (location etc) from the tweet id, returning to us a csv of tweets
+Cleaning up: most tweets do not have location attached, so we will need to discard them. We also only keep the tweets which has a us state as a location. We use google colab notebooks and pandas to do this
+Sentiment analysis: determining how positive, negative or neutral a tweet is. Natural language tool kit NLTK and textblob are python libraries that may be used
+In depth analysis: seeing how twitter sentiment is influenced by deaths
+
+Slide 12-15: Visualizations (Joy)
+Visualisations are crucial to demonstrate our narrative 
+We will use libraries such as Folium and plotly
+
+First, to gain an overview of all states:
+a line chart tracking COVID-19 deaths and tweet sentiment against days in April allows us to understand if there is a correlation. We will normalise the data to account for the difference in scales
+Heat map
+
+Slide 16-17: Visualizations (Safiyah)
+For the specific case study state, we will use a drop down to allow users to interact with the map and seen one day of average sentiment scores
+We will also use a timeline (shown on the right) of the variation in Twitter sentiment over a month with markers for when regulations were set to understand if theres a correlation with the sentiment score
+ 
+Slide 18: Noé
+
+The limitations, several points must be considered.
+-Regarding the first limitation, so many different things could bias the sentiment analysis. Take ironic tweets for example, or jokes, is it negative, positive, neutral. Furthermore the majority of sentiment analysis models aren’t that accurate for tweets as it’s a challenging field. 
+-2nd and fourth limitations, there are over 40 million native Spanish speakers in the US. That’s 12% of the overall population so we’re going to miss tweets because of the translation process, especially for the border’s regions such as New-Mexico or Texas.
+-3rd limitation: The API only allows us to process a small number of tweets, therefore we might face a sample bias.
+-5th limitation: Several tweets will not be considered: we cannot consider some tweets with spellings problems, some tweets simply deal with Covid without explicitly mentioning it.
+-6th limitation: Location is a very important part of our project and we must also acknowledge that some people do not turn their location on, so we’re going to miss some more tweets. 
+-Plus, we’re not taking into account the sentiments linked to emojis which are, of course, way too subjective. 
+
+
+
+
+Slide 18-22: Macrina
+
+
+
+
+Slide 23: salomé
+Here is our expected timeline for the project. the main stages are hydrating tweets, analyse the sentiment tone which can be rather positive or negative. Then analise the data linked with covid total death and state regulations. finally we will visualize the data and publish our results in a designed website. Each stages of the research requires a specific amount of time so timeline will help us: indicating us deadlines for the different steps in order to finalize our blog in time
+
+
+Slide 24: Salome
+Now we will introduce our team and responsibilities
+I will be responsible for… 
+
+[continue for each]
+
+Thank you! 
