@@ -1,0 +1,309 @@
+text,textblob_sentiment,nltk_sentiment,"google_sentiment(sentiment,magnitude)"
+SCARY—8 new strains now: Johnson &amp; Johnson: Says not sure vaccine  works ! Vaccine  for COVID-19; Trump to Supply One Billion Vaccines Worldwide @SpeakerPelosi @NitaLowey @SenSchumer @sfpelosi @AdamSchiff ⁦@USDCCircuitCt⁩ @ChiefJusticeJR @Reuters @AP https://t.co/QjOqvN3lUt,"Sentiment(polarity=-0.08806818181818182, subjectivity=0.6717171717171717)",Positive,"-0.10000000149011612,0.20000000298023224"
+RT @LizzyBrock: @miarussostern @Apple @NorthwellHealth Please help @AppleSupport @Apple #covid19 our hospital needs iPads with front facing…,"Sentiment(polarity=0.0, subjectivity=0.0)",Positive,"-0.4000000059604645,0.4000000059604645"
+"RT @lekwilliams: ""Lirio Tigre de #Bangkok "", Lily nació en una aldea al noreste de #Tailandia en una familia china, propietarios de una tie…","Sentiment(polarity=0.0, subjectivity=0.0)",Negative,"0.20000000298023224,0.20000000298023224"
+"RT @mmpadellan: When this is all over, and it WILL be, I will never forgive or forget trump's refusal to take coronavirus seriously.
+
+I won…","Sentiment(polarity=-0.3333333333333333, subjectivity=0.6666666666666666)",Negative,"0.0,1.600000023841858"
+"RT @scrowder: LAST WEEK: Trump mocked for suggesting ""sanitizing masks"" and the drug Chloroquine. TODAY: Technology can sanitize 120,000 ma…","Sentiment(polarity=0.0, subjectivity=0.06666666666666667)",Positive,"-0.30000001192092896,0.8999999761581421"
+RT @EllenKurz: If we lose the US Postal Service then America has literally lost its ability to deliver democracy in November. https://t.co/…,"Sentiment(polarity=0.0, subjectivity=0.0)",Negative,"-0.30000001192092896,1.0"
+"RT @rolandsmartin: Albany, Ga. Coroner Michael Fowler just said on #RolandMartinUnfiltered that 30 people have died in Dougherty County, ag…","Sentiment(polarity=0.0, subjectivity=0.0)",Negative,"-0.20000000298023224,0.6000000238418579"
+"How to stay safe as a survivor during #StayHomeMN: If you are experiencing violence, call the Minnesota Day One Crisis Line at 866-223-1111 or visit their website: https://t.co/yN9azPPUxc
+
+#COVID19 https://t.co/JcoF9Lotib","Sentiment(polarity=0.5, subjectivity=0.5)",Positive,"0.0,0.4000000059604645"
+"RT @RobertArea45: Miss Feces Of The House
+
+The San Francisco Human Shit
+@SpeakerPelosi⁩
+@realDonaldTrump⁩ delay in the handling of the #cor…","Sentiment(polarity=-0.1, subjectivity=0.45)",Negative,"-0.20000000298023224,0.6000000238418579"
+"RT @DailyCaller: Dr. Birx is asked about the government's early response to the coronavirus outbreak.
+
+She says that they thought it would…","Sentiment(polarity=0.1, subjectivity=0.3)",Positive,"-0.10000000149011612,0.20000000298023224"
+"RT @andresegura: @KenPaxtonTX Remember that during this pandemic, these extremists like @KenPaxtonTX @GovAbbott used it as an opportunity t…","Sentiment(polarity=0.0, subjectivity=0.0)",Positive,"-0.699999988079071,0.699999988079071"
+"RT @JimDelRey: Shorter Larry Tribe: Impeach Trump For Being Not-Psychic!
+
+https://t.co/HXIAc7gadh","Sentiment(polarity=0.0, subjectivity=0.0)",Positive,"0.30000001192092896,0.6000000238418579"
+RT @Chayyslayys: It always gotta be us . Why bum fuck Florida can’t fucking listen . I’m ready to go,"Sentiment(polarity=-0.26666666666666666, subjectivity=0.6333333333333333)",Positive,"0.0,2.0"
+"RT @knicole_a: My uncle was tested positive for COVID-19 last week. By Sunday he was hospitalized and on a ventilator. This morning, my cou…","Sentiment(polarity=0.11363636363636363, subjectivity=0.30606060606060603)",Positive,"0.0,0.10000000149011612"
+"RT @ScottPresler: @realDonaldTrump In Virginia, democrat Governor Ralph Northam issued a stay-at-home order 
+
+until June 10th, 
+
+despite th…","Sentiment(polarity=0.0, subjectivity=0.0)",Negative,"0.0,0.20000000298023224"
+"Are you wondering about the efficacy of wearing a face mask? Heres what several experts and @realDonaldTrump said about it.
+
+#coronavirus 
+https://t.co/HlDjZm8Ulv","Sentiment(polarity=0.0, subjectivity=0.0)",Positive,"0.10000000149011612,0.6000000238418579"
+"Very powerful testimony by an ICU nurse, backed up by many similar stories in the comments: our frontline hospital medical staff are not being protected. This MUST be priority number 1 or many more will die. #COVID19 #CDC https://t.co/KKV8FfWRD7","Sentiment(polarity=0.315, subjectivity=0.48333333333333334)",Positive,"-0.20000000298023224,1.100000023841858"
+@BretBaier @OutnumberedFNC It was must see tv for awhile until the usual suspects took over. #COVID19,"Sentiment(polarity=-0.25, subjectivity=0.25)",Positive,"0.10000000149011612,0.30000001192092896"
+RT @tedlieu: Appears @senatemajldr McConnnell can no longer defend the initial catastrophic failure of @realDonaldTrump in addressing the #…,"Sentiment(polarity=-0.15833333333333335, subjectivity=0.15)",Positive,"-0.5,0.5"
+RT @HariZiyad: It’s genius. Take systemic state failures to prepare for a pandemic &amp; make them a problem of individual actions (if you don’…,"Sentiment(polarity=0.0, subjectivity=0.4)",Positive,"0.0,1.600000023841858"
+RT @ABC7NY: Coronavirus: Friends hope COVID-19 death of 34-year-old Southern California man can serve as warning https://t.co/hHohyQBX3P ht…,"Sentiment(polarity=0.0, subjectivity=0.0)",Negative,"-0.20000000298023224,0.20000000298023224"
+RT @chicagotribune: Empty streets. Deserted public spaces. This aerial video by @ZBzdak shows what Chicago looks like during a pandemic.…,"Sentiment(polarity=-0.05, subjectivity=0.2833333333333333)",Positive,"-0.10000000149011612,0.699999988079071"
+"What’s the thing you are craving now, that you never craved pre-pandemic?  Mine is cookies.","Sentiment(polarity=0.0, subjectivity=0.0)",Positive,"-0.10000000149011612,0.20000000298023224"
+RT @thechinacurrent: Ted and his family have spent most of this month inside their apartment in China — living in temporary isolation due t…,"Sentiment(polarity=0.09166666666666667, subjectivity=0.325)",Positive,"-0.5,0.5"
+RT @RepSwalwell: A nurse at @nyphospital has been told she must wear the same protective mask every day. No new masks will be issued. She &amp;…,"Sentiment(polarity=-0.03409090909090909, subjectivity=0.2897727272727273)",Positive,"-0.5,1.7000000476837158"
+"RT @8NEWS: The group of approximately 70 adults in their 20s left for a spring break trip to Cabo San Lucas, Mexico. Currently, 28 of the 7…","Sentiment(polarity=-0.13333333333333333, subjectivity=0.3333333333333333)",Positive,"0.0,0.10000000149011612"
+"RT @w_terrence: OBAMA GO AWAY
+
+Why are you trying to suggest what President Trump should do &amp; using this pandemic to push an agenda ?
+
+YOU…","Sentiment(polarity=0.0, subjectivity=0.0)",Negative,"-0.20000000298023224,1.0"
+"RT @AmoneyResists: Trump held rallies on:
+—Jan 9th
+—Jan 14th
+—Jan 28th
+—Jan 30th
+—Feb 10th
+—Feb 19th
+—Feb 20th
+—Feb 21st
+—Feb 28th
+
+He golf…","Sentiment(polarity=0.0, subjectivity=0.0)",Negative,"0.10000000149011612,0.20000000298023224"
+"RT @janicewasabi: Prince Edward tonight:
+police stopped passerby and demanded 5 random people to stand in a group, then charged them all im…","Sentiment(polarity=-0.5, subjectivity=0.5)",Negative,"-0.699999988079071,0.699999988079071"
+"Those aren’t thoughts, they’re literally the echo of a child, split into binary outcomes.
+
+“Could be good.”
+“Could be bad.”
+
+Step aside, Friedrich Nietzsche! https://t.co/Z0oMXFMwMz","Sentiment(polarity=-0.08749999999999991, subjectivity=0.6333333333333333)",Negative,"-0.10000000149011612,2.0999999046325684"
+"RT @seanhannity: SAY WHAT? Biden Labels Trump’s Virus Restrictions ‘Hysterical Xenophobia,’ Calls CVS ‘CVC’ and Wuhan ‘Luhan’ https://t.co/…","Sentiment(polarity=-1.0, subjectivity=1.0)",Positive,"0.0,0.20000000298023224"
+"RT @MrJonCryer: Sorry, but months into a pandemic is too late to care about a change in “tone”","Sentiment(polarity=-0.4, subjectivity=0.8)",Negative,"-0.800000011920929,0.800000011920929"
+"RT @ashahshahani: BREAKING: an employee at the deadly Stewart Detention Center has tested positive for COVID-19.
+
+It is now even more urgen…","Sentiment(polarity=0.10681818181818181, subjectivity=0.38636363636363635)",Negative,"-0.30000001192092896,0.699999988079071"
+RT @RollaElabbasi: @NYGovCuomo Many listed #Essential businesses are actually #NonEssential. #StopTheSpread by having a full lockdown for #…,"Sentiment(polarity=0.2125, subjectivity=0.36250000000000004)",Positive,"-0.10000000149011612,0.30000001192092896"
+"RT @maddow: In addition to the ventilators HHS hasn't told them to send anywhere, DOD also has more than a dozen labs that could process CO…","Sentiment(polarity=0.5, subjectivity=0.5)",Negative,"-0.20000000298023224,0.20000000298023224"
+"As Trump stands there saying "" Here.  Hold my beer. "" https://t.co/9KgFArzBV4","Sentiment(polarity=0.0, subjectivity=0.0)",Positive,"0.0,0.10000000149011612"
+"RT @EricBoehlert: it's distressing to see some journalists clinging to idea there's still hope Trump will lead the nation during pandemic,…","Sentiment(polarity=0.0, subjectivity=0.0)",Negative,"-0.699999988079071,0.699999988079071"
+@ASavageNation featured on Netflix thinks he has found 'cure' for coronavirus https://t.co/VwmTZddIpR @MailOnline,"Sentiment(polarity=0.0, subjectivity=0.0)",Negative,"-0.10000000149011612,0.10000000149011612"
+RT @DanCrenshawTX: Lies.  Propaganda. The CCP has tried to make itself the victim - and the hero - while deceiving the world about the orig…,"Sentiment(polarity=-0.08750000000000001, subjectivity=0.07500000000000001)",Positive,"-0.30000001192092896,1.5"
+"RT @MPI: Steve O'Malley, MPI Board Chair of the International Board of Directors, speaks to the role of the board during these uncertain ti…","Sentiment(polarity=0.0, subjectivity=0.0)",Positive,"0.0,0.0"
+"RT @PrisonPlanet: Chinese factory worker rubbing face masks on his shoes in display of global unity over corona pandemic. All hail CCP.
+
+ht…","Sentiment(polarity=0.0, subjectivity=0.0)",Positive,"0.0,1.100000023841858"
+"RT @JoeBiden: In the midst of a pandemic, the Trump Administration chose to expend effort to attempt to disestablish the Mashpee Wampanoag…","Sentiment(polarity=0.0, subjectivity=0.0)",Positive,"-0.30000001192092896,0.30000001192092896"
+"#Tucker calling out @WHO as a mouthpiece of China! They kiss Chinese ass everyday. CHINA LIED, PEOPLE DIED! 😡😡😡😡😡😡😡😡","Sentiment(polarity=-0.125, subjectivity=0.3)",Negative,"-0.10000000149011612,1.399999976158142"
+RT @JoeNBC: Can anyone explain why Ron DeSantis has been so reckless during the crisis? He’s playing with fire and the deaths of so many Fl…,"Sentiment(polarity=0.5, subjectivity=0.5)",Positive,"-0.800000011920929,1.600000023841858"
+@bio23_bi3 @CalebJHull And China is why we are in this mess.,"Sentiment(polarity=-0.175, subjectivity=0.175)",Negative,"-0.699999988079071,0.699999988079071"
+Hope so https://t.co/i8SalLe5FN,"Sentiment(polarity=0.0, subjectivity=0.0)",Positive,"0.4000000059604645,0.4000000059604645"
+RT @ElginPD: We are going through neighborhoods for a socially distant parade of public safety vehicles 2x/week during the #StayatHome orde…,"Sentiment(polarity=-0.11666666666666665, subjectivity=0.21666666666666665)",Negative,"0.0,0.0"
+"RT @NorbertElekes: NEW: 101-year-old Dutch woman, who was born during the Spanish flu, has recovered from coronavirus illness. https://t.co…","Sentiment(polarity=0.06818181818181818, subjectivity=0.22727272727272727)",Negative,"0.10000000149011612,0.30000001192092896"
+"RT @Lrihendry: Folks, remember that CNN decided not to allow the President of the United States to inform the American people on the corona…","Sentiment(polarity=0.0, subjectivity=0.0)",Positive,"-0.6000000238418579,0.6000000238418579"
+RT @jgeltzer: “The problem wasn’t impeachment—it was the president. There was never any chance that the govt was going to take sufficient a…,"Sentiment(polarity=0.0, subjectivity=0.0)",Negative,"-0.5,1.100000023841858"
+Nancy’s “Virus pens” filled with Covid-19 ink. https://t.co/Fb6l05tffD,"Sentiment(polarity=0.4, subjectivity=0.9)",Negative,"0.0,0.800000011920929"
+RT @MedSupplyDrive: @ProjectPPEact pays laid off garment workers to cut and sew gowns that are essential pieces of PPE for medical professi…,"Sentiment(polarity=0.0, subjectivity=0.15)",Negative,"-0.20000000298023224,0.20000000298023224"
+Good! I hope Fox finally gets what it deserves. https://t.co/mHOUrXsOgx,"Sentiment(polarity=0.4375, subjectivity=0.8)",Positive,"0.20000000298023224,1.7999999523162842"
+"RT @eugenegu: @realDonaldTrump And right now in the middle of the worst pandemic in modern history, people are not at all concerned about b…","Sentiment(polarity=-0.12857142857142856, subjectivity=0.4589285714285714)",Negative,"-0.699999988079071,0.699999988079071"
+RT @joncoopertweets: Fox News purportedly bracing for “legal bloodbath” after peddling coronavirus disinformation  https://t.co/IRjjvq0ty7,"Sentiment(polarity=0.2, subjectivity=0.2)",Negative,"-0.6000000238418579,0.6000000238418579"
+Please remind everyone!!! https://t.co/WFuo2ZmMlD,"Sentiment(polarity=0.0, subjectivity=0.0)",Negative,"0.10000000149011612,0.5"
+"RT @kayleighmcenany: BOOM: @realDonaldTrump obliterates CNN ⬇️
+
+""I want to keep the country calm.""
+
+The coronavirus ""will go away.""
+
+""We're…","Sentiment(polarity=0.30000000000000004, subjectivity=0.75)",Positive,"0.0,1.2999999523162842"
+"RT @BlueTX2020: Too distracted to deal with  #coronavirus but not too distracted to hold multiple rallies or play 6 rounds of golf. 
+
+#COVI…","Sentiment(polarity=0.0, subjectivity=0.0)",Negative,"0.0,0.4000000059604645"
+"RT @rww_gop: .@realdonaldtrump is committed to fighting for small businesses.
+ 
+Here are the details of how small-business owners can acces…","Sentiment(polarity=-0.25, subjectivity=0.4)",Positive,"0.0,0.699999988079071"
+RT @1800PetMeds: 19 Pets Who Are Saving Their Owners From Lockdown Boredom - https://t.co/Yfu05cDbzl,"Sentiment(polarity=0.0, subjectivity=0.0)",Negative,"-0.20000000298023224,0.20000000298023224"
+RT @funder: Donald Trump should be arrested for his fraud and lies regarding coronavirus.,"Sentiment(polarity=0.0, subjectivity=0.0)",Negative,"-0.800000011920929,0.800000011920929"
+#NeverCuomo https://t.co/SwGLjjFl40,"Sentiment(polarity=0.0, subjectivity=0.0)",Positive,"0.20000000298023224,0.20000000298023224"
+"RT @GovPhilScott: THREAD: Today, I’m calling all Vermonters into service with the launch of a new website allowing people to sign up for vo…","Sentiment(polarity=0.13636363636363635, subjectivity=0.45454545454545453)",Positive,"-0.10000000149011612,0.10000000149011612"
+"@MikaelaShiffrin @Bose @KindnessWinsFnd I loved the playlist, so much good muaic on it! Keep doing what you're doing, I think it's amazing everything you're doing to help with this pandemic","Sentiment(polarity=0.725, subjectivity=0.7666666666666667)",Positive,"0.8999999761581421,1.899999976158142"
+"RT @JoeBiden: Today as we honor the life and legacy of civil rights and labor movement activist, César Chávez, we also thank the more than…","Sentiment(polarity=0.5, subjectivity=0.5)",Positive,"0.20000000298023224,0.20000000298023224"
+RT @OU_Libraries: A great read on how your libraries can make a difference in #FlattenTheCurve! #OUEmergingTech is using 3D print tech to c…,"Sentiment(polarity=1.0, subjectivity=0.75)",Positive,"0.30000001192092896,1.100000023841858"
+RT @elenochle: Now comes the P-A-I-N https://t.co/IUFNsk6GVj https://t.co/AKYKZUddeJ,"Sentiment(polarity=0.0, subjectivity=0.0)",Positive,"0.0,0.0"
+RT @GovAbbott: The Center for Medicaid and Medicare Services has approved the Section 1135 Medicaid Waiver submitted by @TexasHHSC on March…,"Sentiment(polarity=-0.1, subjectivity=0.1)",Positive,"0.0,0.0"
+"RT @evangershkovich: Here’s a photo of Denis Protsenko, the head doctor of Moscow’s main hospital treating coronavirus patients, and Putin…","Sentiment(polarity=0.16666666666666666, subjectivity=0.3333333333333333)",Positive,"0.0,0.0"
+"RT @vanitaguptaCR: Last night I tweeted about Patrick Jones – the first person to die in federal prison due to #COVID19. Tonight, I want to…","Sentiment(polarity=0.041666666666666664, subjectivity=0.2583333333333333)",Positive,"0.0,0.6000000238418579"
+RT @reagandwalker: If the coronavirus were a person they’d definitely be the kid in high school who would call the cops on the parties they…,"Sentiment(polarity=0.08, subjectivity=0.52)",Positive,"-0.699999988079071,0.699999988079071"
+"RT @smc429: Could the romance be over?💔
+https://t.co/LHFmYQqdqo","Sentiment(polarity=0.0, subjectivity=0.0)",Negative,"0.0,0.0"
+RT @RockstarGames: Rockstar Games and COVID-19 Relief https://t.co/9j6NrtcrFN,"Sentiment(polarity=0.0, subjectivity=0.0)",Positive,"0.0,0.0"
+RT @JoJoFromJerz: @Yamiche https://t.co/U9cH3dLGKJ,"Sentiment(polarity=0.0, subjectivity=0.0)",Positive,"0.0,0.0"
+"RT @NightlyPolitics: Over 130,000 Americans Sign Petition To End Live Coverage Of Trump's COVID-19 Press Briefings https://t.co/r09QMwNQdL","Sentiment(polarity=0.13636363636363635, subjectivity=0.5)",Negative,"0.0,0.0"
+RT @RockstarGames: Rockstar Games and COVID-19 Relief https://t.co/9j6NrtcrFN,"Sentiment(polarity=0.0, subjectivity=0.0)",Positive,"0.0,0.0"
+"I'm 64 but need the bus service to get my food and I can't carry two weeks supply of food. Therefore, I usually ride the bus for food about two or three times per week. The grocery delivery services are too expensive however; I might try Walmart for one month. https://t.co/9K0XJrrUEO","Sentiment(polarity=-0.375, subjectivity=0.475)",Positive,"-0.20000000298023224,1.600000023841858"
+"RT @JoeConchaTV: Dr. Fauci pushes back at Acosta questions around the U.S. not acting early. “In a perfect world, it would have been nice t…","Sentiment(polarity=0.34, subjectivity=0.45999999999999996)",Positive,"-0.10000000149011612,0.5"
+"RT @TribulationThe: TYRANNY ABOUNDS during the #Coronavirus panic in America! BEWARE of COMMIES!
+
+America Releases Murderers &amp; Child Rapist…","Sentiment(polarity=0.0, subjectivity=0.0)",Negative,"-0.30000001192092896,1.0"
+"@NYGovCuomo is trying to roll back bail reform that is only about to finish its 3RD MONTH OF BEING IN EFFECT to racist ""dangerousness"" standard that has been rejected over and over because well, you know EXACTLY who will be labeled ""dangerous"" by judges.
+https://t.co/dqNju4xw6X","Sentiment(polarity=-0.05833333333333333, subjectivity=0.35833333333333334)",Positive,"-0.20000000298023224,1.2000000476837158"
+"RT @davidaxelrod: One of the people who called it the flu was the @POTUS.
+One of the people who suggested pulling down the social distancin…","Sentiment(polarity=-0.06111111111111113, subjectivity=0.17777777777777778)",Negative,"-0.4000000059604645,0.800000011920929"
+"@BBCNews These losers are really depressed they're not the center of attention during this pandemic, huh? They really have it so rough. SO ROUGH.","Sentiment(polarity=-0.016666666666666666, subjectivity=0.25)",Positive,"-0.30000001192092896,1.7000000476837158"
+RT @gtconway3d: I wrote about how Sen. McConnell was gaslighting us today when he claimed impeachment “diverted the attention of the govern…,"Sentiment(polarity=0.0, subjectivity=0.0)",Positive,"-0.699999988079071,0.699999988079071"
+"RT @MaxBoot: We need N95 masks right now—not F-35 fighters. Our defense priorities are out of whack. 
+
+Thanks to @ChrisRukan for the perfec…","Sentiment(polarity=0.24285714285714285, subjectivity=0.3678571428571429)",Positive,"-0.20000000298023224,2.0999999046325684"
+RT @yikesiris: SOCIAL DISTANCING JUST GOT EXTENDED. THIS IS TO ALL U HOES WHO HAVE BEEN GOING OUT WHILE UNDER QUARANTINE. STAY THE FUCK AT…,"Sentiment(polarity=-0.18333333333333335, subjectivity=0.3333333333333333)",Positive,"-0.30000001192092896,1.100000023841858"
+"RT @nakimayonnaise: [9 : Braix &amp; Lycan]
+""ah.. don't you have any guardian?""
+""...n... yes.. I have one..""
+
+""She's my.. e.. elder sister... b…","Sentiment(polarity=-0.75, subjectivity=1.0)",Positive,"0.20000000298023224,1.5"
+I’m going to be looking rough after this. I never realized how much my barber did for me. #StayAtHome #QuarantineLife #haircut #appreciate #barber,"Sentiment(polarity=0.05, subjectivity=0.30000000000000004)",Positive,"0.20000000298023224,2.0999999046325684"
+"RT @JoeBiden: Today as we honor the life and legacy of civil rights and labor movement activist, César Chávez, we also thank the more than…","Sentiment(polarity=0.5, subjectivity=0.5)",Positive,"0.20000000298023224,0.20000000298023224"
+RT @paperdragun: she prolly don’t even know about the coronavirus https://t.co/E7PU5BY8yZ,"Sentiment(polarity=0.0, subjectivity=0.0)",Positive,"-0.5,0.5"
+RT @AprilDRyan: But wait didn't the president @realDonaldTrump  early on compare this to the flu and now he is changing his words like he s…,"Sentiment(polarity=0.1, subjectivity=0.3)",Positive,"-0.5,0.5"
+RT @gtconway3d: I wrote about how Sen. McConnell was gaslighting us today when he claimed impeachment “diverted the attention of the govern…,"Sentiment(polarity=0.0, subjectivity=0.0)",Positive,"-0.699999988079071,0.699999988079071"
+RT @funder: Moscow Mitch McConnell says everyone was distracted with impeachment and that’s why Trump failed with his coronavirus response.…,"Sentiment(polarity=-0.5, subjectivity=0.3)",Positive,"-0.6000000238418579,0.6000000238418579"
+"RT @TeaPainUSA: Trump’s new lie is that he’s the Corona Whisperer and he alone saw and acted before anyone else.
+
+Guess what?  MAGA will be…","Sentiment(polarity=0.13636363636363635, subjectivity=0.45454545454545453)",Positive,"-0.30000001192092896,1.100000023841858"
+RT @StaceyGeis: The bitter irony is that many of those with compromised respiratory systems that make this pandemic that much more dangerou…,"Sentiment(polarity=0.3, subjectivity=0.5)",Negative,"-0.8999999761581421,0.8999999761581421"
+"RT @DavidPepper: With the nation failing to protect our front-line heroes as they save lives, can we at least let them protect themselves?!","Sentiment(polarity=-0.375, subjectivity=0.4)",Positive,"-0.6000000238418579,0.6000000238418579"
+"RT @RealSaavedra: This is why China is 100% responsible for this
+
+Not only could they have stopped the outbreak from leaving their borders…","Sentiment(polarity=0.1, subjectivity=0.775)",Negative,"0.20000000298023224,0.5"
+"RT @DavidLat: Achievement unlocked: no longer on oxygen! We tapered it down gradually after I was extubated last week, and last night while…","Sentiment(polarity=-0.051851851851851864, subjectivity=0.14074074074074075)",Positive,"-0.5,1.100000023841858"
+RT @RSherman_25: So government officials tell everyone to stay at home or stay 6ft away from other ppl while they are on camera doing exact…,"Sentiment(polarity=-0.125, subjectivity=0.375)",Positive,"-0.30000001192092896,0.30000001192092896"
+"RT @ScottPresler: @JoeBiden I’m only here for the ratio. 
+
+Maybe you shouldn’t be begging for money during a pandemic.","Sentiment(polarity=0.0, subjectivity=1.0)",Positive,"-0.4000000059604645,0.8999999761581421"
+"RT @JoeBiden: Today as we honor the life and legacy of civil rights and labor movement activist, César Chávez, we also thank the more than…","Sentiment(polarity=0.5, subjectivity=0.5)",Positive,"0.20000000298023224,0.20000000298023224"
+RT @dbongino: There’s nothing unusual about CNN refusing to air portions of the presidential press briefings on the Wuhan Virus. CNN isn’t…,"Sentiment(polarity=0.2, subjectivity=1.0)",Positive,"-0.5,1.100000023841858"
+@byKateSmith @ReproRights Great! Killing babies! Just lump them in with the rest of the Corona virus deaths! Lord gave mercy!!,"Sentiment(polarity=1.0, subjectivity=0.75)",Positive,"0.10000000149011612,1.2000000476837158"
+"RT @jsolomonReports: About face on chloroquine. Nevada governor reverses decision, allows anti-malarial drugs for coronavirus inpatients ht…","Sentiment(polarity=0.0, subjectivity=0.0)",Positive,"-0.10000000149011612,0.30000001192092896"
+"RT @JoeBiden: Today as we honor the life and legacy of civil rights and labor movement activist, César Chávez, we also thank the more than…","Sentiment(polarity=0.5, subjectivity=0.5)",Positive,"0.20000000298023224,0.20000000298023224"
+RT @ChiefBPartridge: You have the power to flatten the curve. Social distancing and good hygiene is the way. Do your part. #SocialDistancin…,"Sentiment(polarity=0.36666666666666664, subjectivity=0.33333333333333337)",Positive,"0.30000001192092896,1.2000000476837158"
+RT @chrislhayes: Another example (as if we needed any more!) of why you can't just let the virus do its thing. Imagine this number w no soc…,"Sentiment(polarity=0.625, subjectivity=0.5)",Positive,"-0.4000000059604645,0.8999999761581421"
+RT @KatiePavlich: Dr. Birx says we were missing a significant amount of data from China. Sad she has to explain this obvious point to repor…,"Sentiment(polarity=-0.08125, subjectivity=0.60625)",Negative,"-0.699999988079071,1.5"
+@henrykleeKTVU @KTVU @UPS Why would that ups guy even take the handmade mask from the lady? How does he know if the mask is clean or made by clean hands? I thought FDA said masks won't protect us from getting covid. https://t.co/QQ9JxrKGAD,"Sentiment(polarity=0.3666666666666667, subjectivity=0.7000000000000001)",Negative,"-0.20000000298023224,1.600000023841858"
+"RT @suzydymna: @realDonaldTrump It's plain as day now, Democrats WANT people to suffer and even die JUST so the figures for Wuhan CoronaVir…","Sentiment(polarity=-0.21428571428571427, subjectivity=0.35714285714285715)",Negative,"-0.699999988079071,0.699999988079071"
+"@LaloDagach Testing has ramped up significantly, but it's the anatomy of a pandemic, social distancing isn't being observed.","Sentiment(polarity=0.20416666666666666, subjectivity=0.4708333333333333)",Negative,"0.0,0.0"
+Que en paz descanse https://t.co/JTDxlnjSVn,"Sentiment(polarity=0.0, subjectivity=0.0)",Negative,"0.6000000238418579,0.6000000238418579"
+"RT @imagesbyeric: That is such bullshit @senatemajldr , it was republican propaganda that distracted people, just long enough for u senator…","Sentiment(polarity=-0.037500000000000006, subjectivity=0.375)",Negative,"-0.8999999761581421,0.8999999761581421"
+this me af😂😂💯💯💯 https://t.co/DfLCHIGgk3,"Sentiment(polarity=0.0, subjectivity=0.0)",Positive,"0.0,0.0"
+"Coronavirus outbreak taking huge toll on China’s economy, World Bank warns - FRANCE 24 English https://t.co/QUFW7br5AD","Sentiment(polarity=0.20000000000000004, subjectivity=0.45)",Negative,"-0.800000011920929,0.800000011920929"
+RT @KatiePavlich: Mayors or governors threatening jail time for violations of stay-at-home orders while they let criminals out of jail beca…,"Sentiment(polarity=-0.1, subjectivity=0.0)",Negative,"-0.699999988079071,0.699999988079071"
+RT @terfhearse: this just in: nb people are immune to covid https://t.co/dcMMjLMs6e,"Sentiment(polarity=0.0, subjectivity=0.0)",Positive,"-0.30000001192092896,0.30000001192092896"
+RT @pushforward40: Things just aren't adding up when our government tells us to expect 100K to 200k coronavirus deaths within the next 2 we…,"Sentiment(polarity=0.0, subjectivity=0.0)",Positive,"-0.699999988079071,0.699999988079071"
+"RT @news_flea: Why Didn't CDC Know This!?
+@WeStand4theFlag
+@kmc_usa
+@aliatra1968
+@koi529
+@Shawna_7777
+@riedamiani65
+@LindaTerhune
+@saturngu…","Sentiment(polarity=0.0, subjectivity=0.0)",Positive,"0.0,0.6000000238418579"
+Applications for Covid Relief Loans at 0.5 Percent Expected Friday https://t.co/TLBPKTT59f https://t.co/y6MWy5TsYy,"Sentiment(polarity=-0.1, subjectivity=0.4)",Positive,"0.0,0.0"
+RT @gtconway3d: I wrote about how Sen. McConnell was gaslighting us today when he claimed impeachment “diverted the attention of the govern…,"Sentiment(polarity=0.0, subjectivity=0.0)",Positive,"-0.699999988079071,0.699999988079071"
+"RT @W7VOA: #COVID19 is going to be ""circulating in other parts as we're going down,"" thus US needs to be vigilant about a seasonal second w…","Sentiment(polarity=-0.09351851851851851, subjectivity=0.22129629629629632)",Positive,"-0.699999988079071,0.699999988079071"
+"RT @realDonaldTrump: Great work @AtlasAirWW, thank you!","Sentiment(polarity=1.0, subjectivity=0.75)",Positive,"0.6000000238418579,0.6000000238418579"
+"RT @duty2warn: ""We've seen all too terribly the consequences of those who denied warnings of a pandemic. We … have to demand better of our…","Sentiment(polarity=-0.25, subjectivity=0.75)",Positive,"-0.4000000059604645,1.399999976158142"
+RT @GRMcVicar: Grand Rapids residents team up to help retailers amid coronavirus pandemic https://t.co/q0PJTLzn1q,"Sentiment(polarity=0.5, subjectivity=1.0)",Positive,"0.20000000298023224,0.20000000298023224"
+"RT @SenKamalaHarris: We must suspend wage garnishment, car repossessions, credit card interest and penalties, and any negative credit repor…","Sentiment(polarity=-0.3, subjectivity=0.4)",Negative,"-0.5,0.5"
+"RT @kylegriffin1: One former W.H. official said Trump's reelection campaign advisors are terrified that the coronavirus outbreak, which so…","Sentiment(polarity=0.0, subjectivity=0.0)",Positive,"-0.6000000238418579,0.6000000238418579"
+"RT @MCoDems: This is a GREAT idea. We're all in this together. Take care of each other.
+
+#Demcast #TakeItSeriously #FlattenTheCurve #COVID19","Sentiment(polarity=0.3375, subjectivity=0.5625)",Positive,"0.4000000059604645,1.899999976158142"
+"RT @jsolomonReports: Breaking: White House predicts 100,000 to 200,000 coronavirus deaths. ‘Very painful two weeks ahead,’ Trump warns. htt…","Sentiment(polarity=-0.45499999999999996, subjectivity=0.5)",Negative,"-0.20000000298023224,1.2000000476837158"
+"The April 1 FEA President's Report has suggestions for online teaching and info to help talk with kids about COVID-19
+https://t.co/LFzyG6uXM7","Sentiment(polarity=0.0, subjectivity=0.0)",Positive,"0.10000000149011612,0.10000000149011612"
+RT @GKeile: Fauci refusing to let Americans know that there is a medicine on the market that will help sick Americans with this coronavirus…,"Sentiment(polarity=-0.7142857142857143, subjectivity=0.8571428571428571)",Negative,"-0.6000000238418579,0.6000000238418579"
+"@realDonaldTrump Yeah you stupid fucks. It’s a hoax. Don’t worry. It will be over by Easter. He sent China med equipment before he thought it out. , he disabled the clean water act so now corporations can pollute the waterways of America. He just dissolved the car makers mileage","Sentiment(polarity=-0.2111111111111111, subjectivity=0.6666666666666666)",Negative,"-0.5,3.0"
+Pastor Arrested For Violating Rules Amid Virus Outbreak https://t.co/NXINIhMvUn https://t.co/lg51U0jgMW,"Sentiment(polarity=0.0, subjectivity=0.0)",Positive,"0.6000000238418579,0.6000000238418579"
+RT @oof_juice: Y'all cant stay home for 30 days but stayed in a toxic relationship for years 🥴,"Sentiment(polarity=0.0, subjectivity=0.0)",Negative,"-0.6000000238418579,0.6000000238418579"
+"RT @mikandynothem: Democrats and liberal media call @realDonaldTrump a racist every single day. He is so racist, he won the 'Ellis Island'…","Sentiment(polarity=-0.07142857142857142, subjectivity=0.21428571428571427)",Positive,"0.0,0.4000000059604645"
+"RT @OHAOregon: Now that Spring has arrived, many of us are experiencing allergies. Dr. Ann Thomas from the #Oregon Health Authority shares…","Sentiment(polarity=0.5, subjectivity=0.5)",Positive,"-0.20000000298023224,0.699999988079071"
+"RT @jwgop: The Republican enablers in the Senate were so distracted by impeachment they couldn't focus on the pandemic, yet they had time t…","Sentiment(polarity=0.0, subjectivity=0.0)",Positive,"-0.6000000238418579,0.6000000238418579"
+WUHAN! I got you all in check.,"Sentiment(polarity=0.0, subjectivity=0.0)",Positive,"0.4000000059604645,0.8999999761581421"
+"RT @Rochelle: May 20, 2017.","Sentiment(polarity=0.0, subjectivity=0.0)",Positive,"0.0,0.0"
+"RT @HuttoISD: By executive order of the Governor of Texas, Hutto ISD has suspended normal operations and closed facilities through May 3.…","Sentiment(polarity=0.024999999999999994, subjectivity=0.37499999999999994)",Positive,"-0.4000000059604645,0.4000000059604645"
+"RT @AndyOstroy: Hey @realDonaldTrump: stop saying ""Mike, Deborah, Tony, Gavin,"" etc. They're not your friends. And I'm sure they don't even…","Sentiment(polarity=0.5, subjectivity=0.8888888888888888)",Positive,"-0.4000000059604645,1.399999976158142"
+"RT @seanhannity: SAY WHAT? Biden Labels Trump’s Virus Restrictions ‘Hysterical Xenophobia,’ Calls CVS ‘CVC’ and Wuhan ‘Luhan’ https://t.co/…","Sentiment(polarity=-1.0, subjectivity=1.0)",Positive,"0.0,0.20000000298023224"
+RT @SkolMemes: Me trying to stop the spread of Coronavirus from deep in the woods of Northern MN https://t.co/8Mjg1Enwri,"Sentiment(polarity=0.0, subjectivity=0.4)",Positive,"-0.10000000149011612,0.10000000149011612"
+It means we have almost 9 million ppl in MO and KS has maybe 2 million. Lol. And MO is testing WAY more than KS is. https://t.co/gs132AM8GL,"Sentiment(polarity=0.65, subjectivity=0.6)",Negative,"0.10000000149011612,0.8999999761581421"
+"RT @HeyTammyBruce: Throughout this coronavirus fight, and all the unknowns, I do know one thing: Dr. Fauci and Dr. Birx deserve the Preside…","Sentiment(polarity=0.0, subjectivity=0.0)",Negative,"0.10000000149011612,0.10000000149011612"
+"I'm running for #tnsen vs. folks promising to be a blank check for the Trump-McConnell agenda that hurts TN: 
+✅weak #COVID19 response;
+✅hospital closures;
+✅ignoring opioids;
+✅all-in for trade war.
+TN can do better — chip in to elect a #servantleader ⬇️ https://t.co/wWZlhjunAG","Sentiment(polarity=0.375, subjectivity=0.475)",Positive,"-0.5,1.0"
+"Finally...a great recommendation...everyone...everywhere...every time you go out!! 
+Riverside County recommends covering face in public to prevent coronavirus – Press Enterprise https://t.co/gacEpWhhmb","Sentiment(polarity=0.5, subjectivity=0.4083333333333333)",Positive,"0.4000000059604645,0.8999999761581421"
+"@jeffhauser @DeanBaker13 Secondly, the US was hamstrung by incompetent CDC that make faulty test and then refused others  making test.  So we had no tests.
+In Korea private companies allowed to charge ahead with their own tests which gave them a huge lead in testing:
+https://t.co/xbFua2GLkC","Sentiment(polarity=0.13000000000000003, subjectivity=0.5283333333333333)",Positive,"-0.4000000059604645,1.600000023841858"
+"RT @UCSFHospitals: THANK YOU to everyone who donated critical items for front-line providers at our hospitals! We received 100,000+ masks,…","Sentiment(polarity=0.0, subjectivity=0.8)",Positive,"0.4000000059604645,0.800000011920929"
+RT @richardmarx: Pastor says only “sissies” &amp; “pansies” wash their hands to prevent coronavirus https://t.co/cL1r5b1DNg,"Sentiment(polarity=0.0, subjectivity=1.0)",Positive,"-0.5,0.5"
+Fire Amazon!!!! https://t.co/39mTjVvXJd,"Sentiment(polarity=0.0, subjectivity=0.0)",Negative,"0.5,1.0"
+"RT @Susan78English: ""White House predicts 100,000 to 240,000 will die in US from coronavirus"" https://t.co/8S5Mu6Bpk5","Sentiment(polarity=0.0, subjectivity=0.0)",Negative,"-0.30000001192092896,0.30000001192092896"
+@DrTedros @WHO @FAODG @WTODGAZEVEDO Why have you not resigned yet?,"Sentiment(polarity=0.0, subjectivity=0.0)",Negative,"-0.20000000298023224,0.20000000298023224"
+"RT @NPR: With coronavirus cases skyrocketing, the CDC may start encouraging Americans to wear face masks to cut down on asymptomatic spread…","Sentiment(polarity=-0.15555555555555559, subjectivity=0.2888888888888889)",Positive,"0.0,0.0"
+RT @MrAndyNgo: I did not know this happened in 2018. He later pleaded guilty. https://t.co/INGWZKQfjQ,"Sentiment(polarity=-0.25, subjectivity=0.5)",Negative,"-0.10000000149011612,1.2999999523162842"
+RT @SafetyPinDaily: Coronavirus: NHS doctors 'gagged' over protective equipment shortages || Via Independent https://t.co/euuBEdYnF1,"Sentiment(polarity=0.0, subjectivity=0.125)",Positive,"-0.30000001192092896,0.30000001192092896"
+RT @dbongino: There’s nothing unusual about CNN refusing to air portions of the presidential press briefings on the Wuhan Virus. CNN isn’t…,"Sentiment(polarity=0.2, subjectivity=1.0)",Positive,"-0.5,1.100000023841858"
+"RT @ChrisMurphyCT: Just left the Administration briefing on Coronavirus. Bottom line: they aren't taking this seriously enough. 
+
+Notably,…","Sentiment(polarity=0.0, subjectivity=0.25)",Negative,"-0.20000000298023224,1.100000023841858"
+RT @gtconway3d: I wrote about how Sen. McConnell was gaslighting us today when he claimed impeachment “diverted the attention of the govern…,"Sentiment(polarity=0.0, subjectivity=0.0)",Positive,"-0.699999988079071,0.699999988079071"
+"RT @DeanBaker13: Oh, so the headline should read ""Trump lies with new tone."" Do your damn  job. You know full well he lied throughout this…","Sentiment(polarity=0.24318181818181817, subjectivity=0.5022727272727273)",Positive,"-0.699999988079071,2.200000047683716"
+美国竟然也沦落到要跟班上最差那个学生找优越感，这种事以前只发生在中国找印度相比较。 https://t.co/lON2Wdnpb1,"Sentiment(polarity=0.0, subjectivity=0.0)",Positive,"-0.800000011920929,0.800000011920929"
+RT @RepMattGaetz: Our doctors and healthcare professionals are on the front lines of the coronavirus pandemic. Our prayers are with you as…,"Sentiment(polarity=0.0, subjectivity=0.0)",Positive,"0.4000000059604645,0.8999999761581421"
+"@realDonaldTrump I defer all leadership for #COVIDー19 in my state to my governor, Gov Polis. 
+#trumpFailedAmerica","Sentiment(polarity=0.0, subjectivity=0.0)",Negative,"0.10000000149011612,0.30000001192092896"
+"RT @RealCandaceO: Our President is absolutely nailing these #coronavirus press conferences. 
+
+At long last, Americans are able to see him w…","Sentiment(polarity=0.1625, subjectivity=0.4979166666666667)",Positive,"0.0,1.0"
+"RT @Lrihendry: Folks, remember that CNN decided not to allow the President of the United States to inform the American people on the corona…","Sentiment(polarity=0.0, subjectivity=0.0)",Positive,"-0.6000000238418579,0.6000000238418579"
+"RT @DeFede: Fmr Surgeon General @vivek_murthy says @GovRonDeSantis is wrong not ordering stay at home order ""If you care about saving lives…","Sentiment(polarity=-0.22499999999999998, subjectivity=0.7)",Negative,"-0.699999988079071,0.699999988079071"
+"RT @neeratanden: Over 3100 people have died in the US from the coronavirus. More than died on 9/11. Only 158 in South Korea, though we both…","Sentiment(polarity=0.25, subjectivity=0.75)",Negative,"-0.4000000059604645,1.2000000476837158"
+"RT @akkitwts: Respect 👏👏👏👏
+
+A 12-year old girl was having difficulty with her math homework during the lockdown.
+
+So she emailed her teache…","Sentiment(polarity=0.1, subjectivity=0.2)",Negative,"-0.30000001192092896,1.0"
+"RT @ChuckRossDC: Rick Scott wants to investigate whether US should continue funding WHO. 
+
+We provide ~15% of WHO's budget. China gives ~0.…","Sentiment(polarity=0.2, subjectivity=0.1)",Positive,"-0.20000000298023224,0.699999988079071"
+RT @Yamiche: President Trump says from the beginning he knew thousands could die from coronavirus but wanted to be positive so that's why h…,"Sentiment(polarity=0.22727272727272727, subjectivity=0.5454545454545454)",Positive,"-0.10000000149011612,0.10000000149011612"
+They are just plain 🦇 💩 crazy and inconsiderate https://t.co/G6Kp1dvTDU,"Sentiment(polarity=-0.40714285714285714, subjectivity=0.6285714285714286)",Negative,"-0.800000011920929,0.800000011920929"
+@GovRicketts https://t.co/jZanyFojnt,"Sentiment(polarity=0.0, subjectivity=0.0)",Positive,"0.30000001192092896,0.30000001192092896"
+@GovMurphy Mandatory stay at home orders. This is ridiculous. No amount of revenue is worth one single human life.,"Sentiment(polarity=-0.026190476190476188, subjectivity=0.3535714285714286)",Negative,"-0.6000000238418579,1.899999976158142"
+"RT @David_Leavitt: “179 people died in New York yesterday, or whatever it was,"" says @realDonaldTrump 
+
+#COVID #COVID19 #coronavirus #Coron…","Sentiment(polarity=0.13636363636363635, subjectivity=0.45454545454545453)",Positive,"0.0,0.6000000238418579"
+@DrTedros you are a G Damn LIAR. Leave the organization Now! Shameful Idiot,"Sentiment(polarity=-0.8, subjectivity=0.8)",Negative,"0.0,0.8999999761581421"
+"RT @RaisingOneBrow: Trump didn't participate in the impeachment so no, it didn't impact his COVID response #Mitchplease","Sentiment(polarity=0.0, subjectivity=0.0)",Positive,"-0.5,0.5"
+"RT @BarbraStreisand: The lack of preparedness for this pandemic was appalling! Even the provision of masks, gloves and gowns for our health…","Sentiment(polarity=-0.4375, subjectivity=0.9)",Positive,"-0.20000000298023224,1.100000023841858"
+RT @xaipe3: List N: Disinfectants for Use Against SARS-CoV-2 | Pesticide Registration | US EPA https://t.co/i8m6HgBSP3,"Sentiment(polarity=0.0, subjectivity=0.0)",Positive,"0.10000000149011612,0.10000000149011612"
+"""Crooks, criminals chill with the crime, wait till the coronavirus is over"" 😂😂😂 https://t.co/BZALaMacmS","Sentiment(polarity=0.0, subjectivity=0.0)",Positive,"-0.6000000238418579,0.6000000238418579"
+"RT @SenSchumer: Senator Mitch McConnell:
+
+You may have been distracted by impeachment from acting to fight coronavirus, but not everyone wa…","Sentiment(polarity=0.0, subjectivity=0.0)",Positive,"-0.10000000149011612,0.30000001192092896"
+When both your jobs close for COVID-19 but you don’t get a stimulus check because you’re still a dependent of your parents: https://t.co/EV3gBAw9BH,"Sentiment(polarity=0.0, subjectivity=0.0)",Positive,"-0.4000000059604645,0.4000000059604645"
+RT @cuceejr: China has lied and covered up key information during virtually every stage of its coronavirus response - from the initial outb…,"Sentiment(polarity=0.0, subjectivity=0.5)",Positive,"-0.800000011920929,0.800000011920929"
+@realDonaldTrump 's Final Solution! https://t.co/4xkdMGAHUb,"Sentiment(polarity=0.0, subjectivity=1.0)",Negative,"0.5,1.100000023841858"
+"Of course Amazon is going to say that! Sounds like the guy was trying to do the job w/o any protection (mask, gloves perhaps?), and when he complained, they fired him for exactly what he was complaining abt...having to work w/o protection? https://t.co/9MWHCMcLyY","Sentiment(polarity=-0.024999999999999994, subjectivity=0.225)",Positive,"0.0,1.2000000476837158"
+#COVID #BrasilTemQuePararBolsonaro #Bolsonaro #coronavirus #BlackLivesMatter #BrasilUrgente @conectas @negrobelchior @TLHumanRights @TheLatiNegrxs https://t.co/4Nbwyme2l4,"Sentiment(polarity=0.0, subjectivity=0.0)",Positive,"0.20000000298023224,0.20000000298023224"
+"RT @JesseBWatters: Nancy Pelosi, a couple of weeks ago, was in downtown San Francisco telling everyone to go to Chinatown - Chuck Todd mode…","Sentiment(polarity=0.0, subjectivity=0.0)",Positive,"-0.10000000149011612,0.10000000149011612"
+"Ok, Stop Playing We All Have To Do our part.... 
+Seriously #StayAtHome up to 200,000 people will die....","Sentiment(polarity=0.08333333333333334, subjectivity=0.5833333333333333)",Negative,"-0.4000000059604645,0.8999999761581421"
+"RT @LindaLiberty9: During his STOU address President @realDonaldTrump warned the American people about the corona virus.
+
+Bitter @SpeakerPe…","Sentiment(polarity=-0.05, subjectivity=0.25)",Positive,"0.0,0.4000000059604645"
+"RT @jsolomonReports: Breaking: White House predicts 100,000 to 200,000 coronavirus deaths. ‘Very painful two weeks ahead,’ Trump warns. htt…","Sentiment(polarity=-0.45499999999999996, subjectivity=0.5)",Negative,"-0.20000000298023224,1.2000000476837158"
+RT @BarackObama: We've seen all too terribly the consequences of those who denied warnings of a pandemic. We can't afford any more conseque…,"Sentiment(polarity=-0.25, subjectivity=0.75)",Negative,"-0.699999988079071,1.5"
+TONIGHT: @SavannahGuthrie &amp; @hodakotb host our @NBCNews Special Report: Coronavirus Pandemic on @NBC @MSNBC and @NBCNewsNow https://t.co/XBjdCn9RKz,"Sentiment(polarity=0.35714285714285715, subjectivity=0.5714285714285714)",Positive,"0.0,0.0"
+RT @gwensnyderPHL: No wonder Verizon isn't worried at all about jerking me around for 8 hours refusing to reconnect my internet service des…,"Sentiment(polarity=0.0, subjectivity=0.0)",Positive,"-0.699999988079071,0.699999988079071"
+RT @Avkyz: COVID-19 doesnt effect rats &amp; snakes so most of you should be good,"Sentiment(polarity=0.6, subjectivity=0.55)",Positive,"-0.20000000298023224,0.20000000298023224"
+RT @gtconway3d: I wrote about how Sen. McConnell was gaslighting us today when he claimed impeachment “diverted the attention of the govern…,"Sentiment(polarity=0.0, subjectivity=0.0)",Positive,"-0.699999988079071,0.699999988079071"
+RT @tedlieu: Appears @senatemajldr McConnnell can no longer defend the initial catastrophic failure of @realDonaldTrump in addressing the #…,"Sentiment(polarity=-0.15833333333333335, subjectivity=0.15)",Positive,"-0.5,0.5"
+RT @oof_juice: Y'all cant stay home for 30 days but stayed in a toxic relationship for years 🥴,"Sentiment(polarity=0.0, subjectivity=0.0)",Negative,"-0.6000000238418579,0.6000000238418579"
+RT @SethAbramson: I don't know why we consider this markedly different from just killing people outright,"Sentiment(polarity=0.0, subjectivity=0.6)",Negative,"-0.699999988079071,0.699999988079071"
+"Dr. Fauci looks on as @realdonaldtrump enters the briefing room, ahead of a daily press conference on coronavirus response. https://t.co/BqaD4QycYX","Sentiment(polarity=0.0, subjectivity=0.0)",Positive,"0.20000000298023224,0.4000000059604645"
+Real Virus Death Toll in Wuhan Could Be 12 Times Official Figure https://t.co/K3HaWu2smu via @epochtimes,"Sentiment(polarity=0.2, subjectivity=0.30000000000000004)",Positive,"-0.4000000059604645,0.4000000059604645"
+RT @DaisyDucati: Trying to be a stay at home pornstar when none of my neighbor’s kids have school is a real uphill battle. https://t.co/BC3…,"Sentiment(polarity=0.2, subjectivity=0.30000000000000004)",Negative,"-0.10000000149011612,0.6000000238418579"
+---&gt; https://t.co/5tEgPXSUbO,"Sentiment(polarity=0.0, subjectivity=0.0)",Positive,"0.0,0.0"
