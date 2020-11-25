@@ -1,42 +1,32 @@
-Slide 1: Joy
+Slide 1: Joy (Introduction)
 Hi everyone, today we are presenting our research proposal, looking at the reality of covid 19 in terms of total deaths vs the perception of the virus on Twitter, using sentiment analysis
 
-Slide: salomé
+Slide 2: Salomé (Sentiment analysis definition)
+First, we are gonna look at the existing literature and define what sentimental analysis is. this will help us place our research in the wider context.
+Sentimental analysis consists of categorising opinions expressed by people in their tweets. In this case sentimental analysis would be positive, negative or neutral. 
+We will then be able to visualize it on interactvive maps to engage users.
 
-First we are gonna look at the literature
-We should clarify what is sentimental analysist
-Sentimental analysis consists of categorizing opinions expressed by people in their tweets. In this case sentimental analysis would be positive, negative or neutral
-We will then be able to visualize it on maps.
-
-Slide 2-5: Safiyah
-
+Slide 2-5: Safiyah (Literature Review)
 There are few articles looking at the sentiment analysis of tweets relating to COVID-19.
+One example was conducted over one week in March on a global scale, using two hashtags #COVID-19 and #Coronavirus.
 
-One example was conducted over 1 week in March on a global scale, using two hashtags #COVID-19 and #Coronavirus.
+This is another graph [next slide] showing how external factors, such as announcements of lockdowns such as in Italy and first reported deaths causes rises in the number of related tweets, showing that the reality of COVID-19 had some relationship with the online sentiment.
 
-This is another graph showing external factors, such as announcements of lockdowns such as in Italy and first reported deaths causes rises in the number of related tweets, showing that the reality of COVID-19 had some relationship with the online sentiment.
-
-Our study aims to build on this research to both fill knowledge gaps and add to the existing stock of knowledge. 
-
+[next slide] Our study aims to build on this research to both fill knowledge gaps and add to the existing stock of knowledge. 
 Our research question asks “What is the relationship between the sentiment score of tweets relating to the COVID-19 across states in the US and its severity (measured in this case by total deaths) in April 2020?”
-
-Our specific aims are to Understand whether, and the extent to which, the positivity and negativity of tweets is influenced by, or independent of, reality
-
-we specifically aim to understand a) the relationship between total deaths and the sentiment scores of tweets, as well as b) the relationship between imposed COVID-19 state regulations and the sentiment scores of tweets. 
-
+Our specific aims are to Understand whether, and the extent to which, the positivity and negativity of tweets is influenced by, or independent of, reality.
+we specifically aim to understand: a) the relationship between total deaths and the sentiment scores of tweets, as well as b) the relationship between imposed COVID-19 state regulations and the sentiment scores of tweets. 
 We have outlined the following objectives to help achieve this aim, involving data processing, analysis and visualisations
-(ignore)
 First, we will pre-process and perform sentiment analysis on tweets collected from the dataset in order to obtain sentiment scores
 We will then analyse the correlation between the daily change in the number of total COVID-19 deaths and sentiment scores of the tweets over the month of April
 Finally, we will analyse the relationship between the implementation of COVID-19 regulations by one state, and the sentiment scores of tweets for that state
 
+Slide 7: Macrina (Applications of our research)
+There are a lot of useful applications of this research. It is important as the perception analysis of Tweets can inform us about public perception of COVID-19 & how reactions may be linked to, or differ from, regulations and the reality of cases and deaths.
+Futhermore there are useful applications for Public policy in the future if there are further waves or other possible pandemics.
+There are also further implications for cyberpsychology, sych as understanding how and whether the democratisation of digital technologies affects our perceptions of reality.
 
-
-Slide 7: Macrina
-
-
-
-Slide 8-11: Data Analysis - Joy
+Slide 8-11: Joy (Data Analysis)
 Now we will move on to the data analysis
 We are going to use three main datasets
 
