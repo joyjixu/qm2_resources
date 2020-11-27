@@ -7,7 +7,7 @@ What can Twitter activity, measured by sentiment analysis of COVID19 tweets, tel
 What can the sentiment analysis of tweets relating to covid-19 tell us about the perception of the pandemic across states in the USA?
 
 Is there a relationship between this Twitter perception and the introduction of government regulations of varying severity? Is there also a relationship between this Twitter perception and the reality of the pandemic, as measured by the number of cases?
-Team Members’ Full Names
+Team Members’ Full Names:
 Salome Welgryn
 Safiyah Suleman
 Macrina Hanganu 
