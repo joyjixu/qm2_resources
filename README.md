@@ -6,6 +6,9 @@ Resources for QM2 2020 Project
 ### data_preprocessing
 * includes information on how we cleaned our datasets to be able to perform analysis on them afterwards
 
+### data_analysis
+* contains notebooks and reseach on sentiment analysis
+
 ### website
 * content to be added on our project website
 
