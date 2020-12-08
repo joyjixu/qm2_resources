@@ -1,4 +1,4 @@
-# Links to the main datasets we will be using
+# Links to the main datasets we will be using (these are too large to upload here)
 
 ## COVID Tweets Dataset (Chen, 2020)
 * Maintained by Computer Science Ph.D. student at the University of South California
