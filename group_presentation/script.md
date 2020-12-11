@@ -1,7 +1,7 @@
 Slide 1: Joy (Introduction)
 Hi everyone, today we are presenting our research proposal, looking at the reality of covid 19 in terms of total deaths vs the perception of the virus on Twitter, using sentiment analysis
 
-Slide 2: Salomé (Sentiment analysis definition)
+Slide 2: Salomé (Sentiment analysis definition: the process of computationally identifying and categorizing opinions expressed in a piece of text, especially in order to determine whether the writer's attitude towards a particular topic, product, etc. is positive, negative, or neutral)
 First, we are gonna look at the existing literature and define what sentimental analysis is. this will help us place our research in the wider context.
 Sentimental analysis consists of categorising opinions expressed by people in their tweets. In this case sentimental analysis would be positive, negative or neutral. 
 We will then be able to visualize it on interactvive maps to engage users.
