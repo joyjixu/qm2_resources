@@ -1,4 +1,4 @@
-# read_me
+# Folder contents
 ### analyzing_covid_tweets_test.ipynb
 Initial graphs generated using the matplotlib library
 
