@@ -14,3 +14,6 @@ Morstatter et al., ‘Is the Sample Good Enough? Comparing Data from Twitter’s
 * TextBlob: gives polarity (positive +1 to negative -1) and subjectivity, pre-trained model but not on tweets
 * NLTK: can train a Naive Bayes classifier using a Twitter corpus (already in library)
 * Google Cloud Platform: easy to use API of high quality, automatic language detection but may need to pay
+
+## What we use
+The three libraries above were tested on a sample of 200 random tweets which were labeled by hand (see nlp_samples.csv). From this, we determined that the Google Cloud Platform Natural Langugage API was the most accurate and easy to use for the purpose of our research.
