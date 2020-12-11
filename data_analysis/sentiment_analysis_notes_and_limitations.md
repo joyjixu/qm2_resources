@@ -3,7 +3,7 @@
 and thus sentiment analysis oftern performs poorly on Twitter data (cite)
 * There might be sampling bias as the population active on Twitter is not representative of everyone in a particular state: could be skewed towards a younger and more "privileged" population
 
-Crampton et al., ‘Beyond the Geotag: Situating “Big Data” and Leveraging the Potential of the Geoweb’, Cartography and Geographic Information Science, 2013 Vol. 40, No. 2, 130-139 
+Crampton et al.,‘Beyond the Geotag: Situating “Big Data” and Leveraging the Potential of the Geoweb’, Cartography and Geographic Information Science, 2013 Vol. 40, No. 2, 130-139 
 ‘A piece of information geotagged to a particular location may not necessarily have been produced in that location, be about that location, or exclude reference to any other geographic locality’. Crampton et. al, p. 132
 
 https://arxiv.org/pdf/1306.5204.pdf
