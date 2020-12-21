@@ -5,7 +5,12 @@ Initial graphs generated using the matplotlib library
 ### get_tweet_sentiment.ipynb
 Notebook for Sentiment Analysis with Google Cloud Natural Language API
 
-### nlp_samples.csv
+### sentiment_analysis_notes_and_limitations.md
+Initial research of limitations of the libraries and sentiment analysis approaches in data analysis. This will be added to our methodology and literature reviews.
+
+## select_nlp_lib folder
+
+### nlp_samples_unlabeled.csv
 Contains 200 tweets with the respective sentiment score from three libraries: textblob, NLTK, and Google, without researcher labels.
 
 ### nlp_samples_labeled.csv
@@ -13,6 +18,3 @@ We have conducted our own study of 200 tweets to understand which notebook is be
 
 ### check_nlp_accuracy.ipynb
 This notebook formats the nlp_samples_labeled.csv and performs some calculations to determine sentiment accuracy on the sample. Google performs the best at 57% accuracy.
-
-### sentiment_analysis_notes_and_limitations.md
-Initial research of limitations of the libraries and sentiment analysis approaches in data analysis. This will be added to our methodology and literature reviews.
