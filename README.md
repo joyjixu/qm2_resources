@@ -16,3 +16,7 @@ Resources for QM2 2020 Project
 ### datasets
 * points to links to our main datasets used
 * smaller datasets used for additional analysis (for example US population by state)
+
+# qm2_graphs
+* html embeddings for the visualizations are available in a separate repo which is a github page to be able to link to website
+* https://github.com/joyjixu/qm2_graphs
