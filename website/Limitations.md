@@ -7,4 +7,4 @@ Determining sentiment in tweets using existing libraries is limited by the fact 
 3)	Limitations due to the format and quantity of tweets. 
 The collection of such a vast amount of data through Twitter’s API is unfortunately limited as it only returned 1% of the total Twitter volume.  Furthermore, we missed some tweets as some hashtags were added or removed as data was being collected. Location is also not always recorded, and often inaccurate. 
 4) Limitations regarding the way data were collected: 
-Indeed, some state did not collect there data on a daily basis, which can lead to irregularities. 
+Indeed, some states did not collect there data on a daily basis, which can lead to irregularities. 
