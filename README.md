@@ -8,7 +8,8 @@ Resources for QM2 2020 Project
 * includes notebook to select relevant information on covid cases and deaths in the US for April 2020 from the raw dataset
 
 ### data_analysis
-* contains notebooks and reseach on sentiment analysis using Google Natural Language API
+* notebooks and reseach on sentiment analysis using Google Natural Language API
+* code for summary stats on covid cases and deaths
 
 ### website
 * content to be added on our project website
