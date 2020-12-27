@@ -5,7 +5,7 @@
 * Github Repository, using April data only
 * https://github.com/echen102/COVID-19-TweetIDs
 
-## US COVID Cases Dataset 
+## US COVID Deaths and Cases Dataset 
 * (United States COVID-19 Cases and Deaths by State over Time | HealthData.gov, 2020)
 * Data from healthdata.gov, a federal government website managed by the U.S. Department of Health & Human Services
 * https://healthdata.gov/dataset/united-states-covid-19-cases-and-deaths-state-over-time
