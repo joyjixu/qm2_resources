@@ -17,4 +17,10 @@ This is not a surprising conclusion; the spread of the disease logically comes w
 But, interestingly, our p-value is way greater than 0.05 (0.839), meaning that there is no causality relation between the number of new cases and the average Covid-19 sentiment. 
 Main take-away for that graph: there is no causality relation between the number of new cases and the average sentiment, our hypothesis is partly invalidated.  
 
+Now, let’s compare the changes in daily new Covid-19 deaths with the average sentiment.
+The correlation is, one more time, negative: a larger number of deaths comes with a worst average sentiment. However, here, the Pearson correlation number is almost 10 time stronger (-0.360 vs. -0.039) than the one of the new cases / average sentiment, indicating a stronger negative correlation. It means that a change in one of the two variables comes with a stronger opposite change in the other variable. 
+Furthermore, regarding this relation, there is a causality link. It means that a change in one of the variables causes a change in the other. We know that because our P-value equals 0.05 which is the minimum number for a causality link. 
+Now, we must establish the direction of this causality. What comes first? A change in the average sentiment or a change in the number of deaths? In order to answer that question, we just have to look at the graph as the answer is visual. 
+Again, the result is not surprising. Changes in the number of deaths come first. It means that Covid-19 deaths clearly influence the overall tweet sentiment. 
+Main take-away from that graph: This result clearly has some great implication and partly (if not fully) validates our hypothesis: there is a relationship between the severity of Covid-19 and the average twitter sentiment! 
 
