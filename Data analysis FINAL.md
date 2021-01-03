@@ -5,6 +5,12 @@ From the 12th, the average sentiment starts to stabilize itself around -0.165, a
 Overall, the average sentiment becomes more negative over time. 
 Main take-away from that graph: the average sentiment on Covid-19 is, of course, negative; therefore we will be working on the degree of negavity of sentiments.
 
+In addition, the two violins plot provide some further informations about the distribution of the average sentiment.  
+We can firstly see that the mean of tweet’s sentiment is -0.155, corroborating that idea that the average sentiment is, logically, negative. 
+Secondly, we can also see that a large number of tweets are neutrals. This information echoes our limitations, as we couldn’t establish the positivity/negativity of jokes, pictures, etc… 
+Thirdly, and finally, we can see that not all tweets are negative and that ¼ of them have an above 0 sentiment score (q3 being 0). This is a surprisingly high number, which could be interesting for further research. Furthermore, it is also interesting to see that the magnitude of tweets sentiment is very low. It means that the strength of the sentiment expressed in tweets is low. 
+Main take-away from these graphs: the majority of tweets are negative and show some pretty moderated feelings. 
+
 Regarding the number of new deaths and cases per day, it is difficult to see a clear trend. 
 The number of new cases is pretty unstable, even if we can see a clear increase from the 20th to the 25th. 
 Overall, the number of cases and the number of deaths both increase within the month of April. The number of new deaths is, logically, way smaller than the number of cases, as most of Covid-19 patient recovered from the disease. 
