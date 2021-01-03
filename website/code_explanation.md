@@ -26,14 +26,26 @@
 * Performing sentiment analysis on a tweet (determining how positive/negative it is) requires a Python library or an API (link to definition) - there are many that are able to do this with varying degrees of accuracy.
 * Usually, they will give sentiment/polarity (positive, negative or neutral), as well as magnitude (how much emotion is in the text -higher magitude suggests more emotional text)
 * We tested out three options:  [NTLK](https://www.digitalocean.com/community/tutorials/how-to-perform-sentiment-analysis-in-python-3-using-the-natural-language-toolkit-nltk) (Natural Language Toolkit), [TextBlob](https://textblob.readthedocs.io/en/dev/quickstart.html), and [Google Cloud Natural Language API](https://cloud.google.com/natural-language)
-* Using the first 200 tweets from 01/04/2020, we manually labeled each with what we beleived the sentiment was (positive, negative or neutral)
+* Using the first 200 tweets from 01/04/2020, we manually labeled each with what we believed the sentiment was (positive, negative or neutral)
 * We then ran each of the sentiment analysis models on these tweets and added a column for each of their results
 
 (gist of csv)
 
-* Then, using Python, we can calculate how accurate the results were copared to the manual labels. For example:
+* Then, using Python, we can calculate how accurate the results were compared to the manual labels. For example:
 
 (gist of code to calculate accuracy)
 
-* The final results showed that Google's API performed best, at 
+* The final results showed that Google's API performed best, at xx accuracy, followed by xx (xx% accuracy) and xx (xx% accuracy)
 
+### Using Google's API
+* Now that we have determined that Google's model works best, we had to set up trial accounts to be able to use it (it is normally a paid service)
+* Following the documentation online, we first [set up](https://cloud.google.com/natural-language/docs/setup) the API, and then used the code provided to base off our [requests for sentiment analysis](https://cloud.google.com/natural-language/docs/analyzing-sentiment)
+
+(gist of function to perform sentiment analysis)
+
+* This was run on all the tweets we had, which added two more columns to our original table of tweets: sentiment and magnitude
+
+(gist of csv)
+
+## COVID-19 Cases and Deaths
+* moving on from tweet analysis, we also had to clean and 
