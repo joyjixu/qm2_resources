@@ -14,3 +14,18 @@ As there are more and more data available and this one is not structured enough,
 
 #Cleaning tweets
 Once extracted, the tweets to be used can come with unwanted html characters, bad grammar and poor spellings. Cleaning tweets enable to make them understandable; it decodes the data by correcting the spelling, remove all the stop-words, the punctuation, then it standardize the words, the last step is removing of the URL. Once these steps are done, the tweets are readable and ready to be used in a further analysis.
+
+#Hydrating tweets
+Hydrator is an electron-based desktop application for hydration of Twitter credentials. Twitter's terms of use do not allow distribution of the entire JSON for tweets datasets to third parties. However, they do allow the sharing of tweets' identifying data. Hydrator helps you to convert these tweet IDs back to JSON and also to CSV from the comfort of your office for later use.
+
+#Magnitude
+The magnitude assigned to a tweet is a number, assigned to something found through analysis, so that it can be compared to others numerically. It bases on standards.
+
+#Pearson’s correlation coefficient
+Pearson’s correlation coefficient, is a statistic that measures linear correlation between two variables X and Y, it permits to establish if there is a relationship between the two variables used.
+The statistical measure is between -1 and 1. The closer the number is to zero, the more the correlation is non-existent. 
+
+#Hexbin visualisation 
+Hexbin diagrams take lists of X and Y values and return what looks somewhat like a point cloud, but where the entire graphic space has been divided into hexagons (like a honeycomb) and all the points have been grouped into their respective hexagonal regions with a color gradient indicating the density of each hexagonal area. It is used to visualize density, where the hexagon as a shape makes it easy to create contiguous areas while dividing the entire space into discrete units.
+
+
