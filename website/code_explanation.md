@@ -1,6 +1,7 @@
 # Our code
 ## Github
 * All our code used has been uploaded on Github in this repository: https://github.com/joyjixu/qm2_resources/
+* They can be run directly online as they are jupyter notebooks, provided that you have the correct files uploaded
 * Interactive visualizations such as the maps that were embedded in this website can be found here: https://github.com/joyjixu/qm2_graphs/
 
 ## Collecting tweets, hydration and cleaning
@@ -47,5 +48,54 @@
 
 (gist of csv)
 
+### Visualizations
+* With this data, we can already plot some interesting visualizations of the distribution of tweet sentiment over time across the US
+
+#### Chloropleth map slider
+
+#### Violin plot
+
 ## COVID-19 Cases and Deaths
-* moving on from tweet analysis, we also had to clean and 
+
+### Data preprocessing
+* moving on from tweet analysis, we also had to clean and analyze our second main dataset link: https://healthdata.gov/dataset/united-states-covid-19-cases-and-deaths-state-over-time
+* After downloading the csv, we selected the data for the relevant timeframe (April 2020), and also added a column with the state abbreviation
+
+(gist of code to clean)
+(csv of output)
+
+### Some summary visualizations
+* Using [matplotlib](https://matplotlib.org/) (a Python library), we could then plot some graphs which included the change in new COVID cases over time, for example
+
+(gist of plotting)
+(image of plot)
+
+* Plotly also enabled us to make interactive graphs of the rise in cases over time
+
+(gist of code creating plotly graph)
+(embed of graph)
+
+## Case studies
+### Selecting states
+* In order to narrow down our research, we selected two states in the US to examine the relationship between COVID cases/deaths, tweet sentiment and the implementation of state regulations related to COVID-19
+* To do so, we randomly selected one Democrat and one Liberal state in Python:
+
+(gist of state selection)
+
+* From that, we get Utah (Republican) and Colorado (Democrat), and could select only the relevant tweets from that state
+* For example, for Colorado
+(gist of selecting state)
+(csv of state sentiment)
+(csv of state cases)
+
+### Visualizing sentiment
+* For these two particular states, we wanted to analyse how exactly both sentiment and magnitude varied over time
+* We therefore used [hexbins](https://python-graph-gallery.com/84-hexbin-plot-with-matplotlib/#:~:text=A%20Hexbin%20plot%20is%20useful,denotes%20this%20number%20of%20points.) to undertsand the way the tweets were distributed
+* We chose the intensity/darkness of the colour to represent the number of tweets in that category/bin
+
+(gist of hexbin creation)
+(gif of hexbin)
+
+### Plotting line graphs
+
+### Regulations
