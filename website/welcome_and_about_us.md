@@ -9,7 +9,7 @@ My name is Noé Weissberg, I'm a 19 years old BASc student. I'm from France, and
 
 ## Joy
 Hi - I'm Joy, a second-year BASc student majoring in Sciences and Engineering and with a minor in Cultures. Most of my modules are related to Mathematics and Physics.
-Other than that, I've grown up in many countries, including China, France, the UAE and Norway, enjoy programming on the side, and practice figure skating. 
+Other than that, I've grown up in many countries, including China, the UAE and Norway, but right now I am living in France. I also enjoy programming on the side, and practice figure skating. 
 Favourite dino: Dracorex hogwartsia
 
 ## Safiyah
