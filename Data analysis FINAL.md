@@ -24,3 +24,13 @@ Now, we must establish the direction of this causality. What comes first? A chan
 Again, the result is not surprising. Changes in the number of deaths come first. It means that Covid-19 deaths clearly influence the overall tweet sentiment. 
 Main take-away from that graph: This result clearly has some great implication and partly (if not fully) validates our hypothesis: there is a relationship between the severity of Covid-19 and the average twitter sentiment! 
 
+The trends we just analyzed are the results of the US as a country. 
+But we wanted to investigate the federal level, as we hoped to find some geographical trend within the US. 
+But, as shown by the map, no real tendencies can be established. Almost all of the states do show a great variability in their average sentiment. 
+The geographical localization of the state doesn’t seem to change anything. 
+Main take-away from these visualizations:  there are no geographical trends for the repartition of the average sentiment on a federal level. 
+
+Furthermore, the number of deaths, even if it is correlated with the average sentiment on a national basis, does not seem to be correlated with the average sentiment on a state basis. 
+Indeed, the states with the larger numbers of normalized deaths do not seem to be the darker on the map. 
+This could be explained by the fact that the number of deaths is reported on a national basis in the US, and that, therefore, states react to that number instead of the number of new deaths on a federal level. 
+Main take-away from these visualizations: in terms of sentiments, states react to the national number of Covid-19 deaths, not the federal numbers. 
