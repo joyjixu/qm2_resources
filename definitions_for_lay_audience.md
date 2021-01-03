@@ -28,11 +28,21 @@ The statistical measure is between -1 and 1. The closer the number is to zero, t
 # Hexbin visualisation 
 Hexbin diagrams take lists of X and Y values and return what looks somewhat like a point cloud, but where the entire graphic space has been divided into hexagons (like a honeycomb) and all the points have been grouped into their respective hexagonal regions with a color gradient indicating the density of each hexagonal area. It is used to visualize density, where the hexagon as a shape makes it easy to create contiguous areas while dividing the entire space into discrete units.
 
+# Accuracy
+character of something that is precise, specified
 
-accuracy
-tweet ID
-API
-csv
-jupyter notebook
-chloropleth
-(machine learning) model
+# Tweet ID
+The Twitter ID is numbers that define an account. It is a unique value that every account on Twitter has. It is a  No two people have the same ID.
+
+# API
+An API is a programming interface. It makes certain data or functionalities of an existing application available. To use this data, most APIs require a key that will allow the identification of the administrator. In other words, an API is the intermediary that allows two completely independent computer systems to interact automatically, i.e. without human intervention.
+
+# CSV
+A CSV (comma separated values) file is the basic file of the collected data - without any special formatting. Each field is separated by a comma. Because many applications use different file formats (such as speaking different languages), CSV files serve as a universal format for viewing your data in a variety of applications.
+
+# Jupyter Notebook
+the notebook contains the execution results. This means that you don't have to send your code and your results in two separate files (and all that this implies of confusions between different versions of files or to know which part of the code is responsible for which result). In addition, notebooks are often compatible with each other, allowing you to switch servers efficiently.
+
+# Chloropleth
+Is a map on which the data will be visualised. Chloropleth maps use shades of colour to show variations in data over wide areas.
+
