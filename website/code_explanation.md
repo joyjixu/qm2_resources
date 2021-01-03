@@ -14,7 +14,7 @@
 * Then, we used Pandas, a library in Python, to clean the data: keeping only the tweets that were posted with a location attached, making sure the location was a US state and adding a column in the table with the abbreviated state name
 
 * Below is an snippet of code showing how we kept US tweets only:
-(gist of code)
+<script src="https://gist.github.com/joyjixu/7ae0ee9f0f849de66f569922aa0720bd.js"></script>
 
 * After cleaning up the dataset, here is the result:
 (gist of csv)
