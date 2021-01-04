@@ -1,5 +1,6 @@
 This case study will focus on analyzing two states from a different political color, and try to see how the regulations put in place by the government of the state 
-affects the people’s sentiment expressed on twitter.
+affects the people’s sentiment expressed on twitter using graphs indicating the regulations linked with the sentimental analysis of tweets, and also the Hexbins
+dataset obtained after anaylsing the sentiment expressed on twitter, the magnitude and the number of tweets.
 We will focus on Utah and Colorado. Utah is a state that voted for the Republican party in 2020, while Colorado is a Democratic state.
 We randomly selected one strongly democrat state and one strongly republican state, in order to determine if political views played a role in the relationship 
 between twitter sentiment and Covid deaths.
