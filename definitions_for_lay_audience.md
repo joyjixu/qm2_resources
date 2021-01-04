@@ -44,5 +44,5 @@ A CSV (comma separated values) file is the basic file of the collected data - wi
 the notebook contains the execution results. This means that you don't have to send your code and your results in two separate files (and all that this implies of confusions between different versions of files or to know which part of the code is responsible for which result). In addition, notebooks are often compatible with each other, allowing you to switch servers efficiently.
 
 # Chloropleth
-Is a map on which the data will be visualised. Chloropleth maps use shades of colour to show variations in data over wide areas.
+Is a map on which the data will be visualised. Chloropleth maps uses shades of colour to show variations in data over wide areas.
 
