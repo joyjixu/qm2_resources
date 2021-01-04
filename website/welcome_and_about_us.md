@@ -1,8 +1,12 @@
-Welcome to Sentac.
+Welcome to Sentco.
 
 This research project has been created by interdisciplinary students from UCL in London. Using Data Science and Visualisation, our website will guide you through our research beginning with our introduction and literature review through to our data visualisation and anlysis, finalising with our conclusion.
 
+ SENTCO is derived from our data science approach, using sentiment analysis on Tweets relating to COVID-19. Beyond this, for us the name represents our ongoing commitment to creating high-quality, open-source research. We welcome you to use the resources we have created and shared.
 
+We hope you enjoy your journey with us! 
+
+- SENTCO -
 
 ## Noé
 My name is Noé Weissberg, I'm a 19 years old BASc student. I'm from France, and grew up in Paris. I'm majoring in Society and minoring in Health and Environment. My main areas of study are Psychology and Management. 
