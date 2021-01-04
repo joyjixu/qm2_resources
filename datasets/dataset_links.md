@@ -15,4 +15,6 @@
 * We will be using this in a case study for one state to determine if there is a correlation between twitter sentiment and the implementations of regulations
 * https://kubinec.shinyapps.io/coronanet/
 
-
+## US State Population
+* Population per state in July 2020
+* https://www.kaggle.com/nightranger77/covid19-state-data?select=COVID19_state.csv
