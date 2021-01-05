@@ -33,3 +33,16 @@ To ensure that you don’t use protected intellectual property, check with the a
 
 #US COVID Regulations Dataset (Cheng et al., 2020
 no license available on any page?
+
+Creative Commons 
+​
+
+Unsplash is the source of our bacground images. "Unsplash grants you an irrevocable, nonexclusive, worldwide copyright license to download, copy, modify, distribute, perform, and use photos from Unsplash for free, including for commercial purposes, without permission from or attributing the photographer or Unsplash. This license does not include the right to compile photos from Unsplash to replicate a similar or competing service."
+
+​
+
+Wix Media is used for vector design icons. "The free Wix media inside your Media Manager and on your template are royalty free images that we have provided for your convenience. You can use any of these images on your Wix site without breaking any international copyright laws".
+
+​
+
+LottieFiles is the source of the animated MP4 files. All the public files available in LottieFiles are distributed under Creative Commons (CC) unless stated otherwise.
