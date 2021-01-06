@@ -46,3 +46,6 @@ the notebook contains the execution results. This means that you don't have to s
 # Chloropleth
 Is a map on which the data will be visualised. Chloropleth maps uses shades of colour to show variations in data over wide areas.
 
+# Violin plot
+Violin plots display the distribution of one set of numeric data and usually display summary statistics such as median and quartiles. They also show the entire distribution of data, where a wider section corresponds to a higher frequency of values found at that location.
+More information here: https://towardsdatascience.com/violin-plots-explained-fb1d115e023d
