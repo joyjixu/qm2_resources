@@ -6,7 +6,7 @@ This research project has been created by interdisciplinary students from UCL in
 
 We hope you enjoy your journey with us! 
 
-- SENTCO -
+SENTCO
 
 ## Noé
 My name is Noé Weissberg, I'm a 19 years old BASc student. I'm from France, and grew up in Paris. I'm majoring in Society and minoring in Health and Environment. My main areas of study are Psychology and Management. 
@@ -17,7 +17,9 @@ Other than that, I've grown up in many countries, including China, the UAE and N
 Favourite dino: Dracorex hogwartsia
 
 ## Safiyah
-Hi! I'm Safiyah, a second-year Arts & Sciences student from London, focused on International Development, Law and Economics.
+Hello! I'm Safiyah, a second-year BASc student from London. I major in Societies, mostly studying International Development, Economics & law.
+I'm particularly  interested in social enterprise solutions to International Development & smart city designs.. You can find me practicing graphic design, hiking, or sipping a hot cup of tea!
+Favourite dino:Pterodactylus (a flying dino? very cool - but probably best they are extinct)
 
 ## Salomé 
 Hey! - I’m a 19 years old, Arts and Sciences student, majoring in Society and minoring in Health and Environment. I am mainly studying Environment, Development and Psychology.
