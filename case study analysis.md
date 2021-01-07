@@ -21,7 +21,8 @@ We can see that the curves between the two states put side by side are generally
 We notice that the two states are close, the state of Utah turns between -0.09 and -0.25, while for Colorado which varies between -0.12 and -0.2. 
 The standard deviation of Utah is greater than 0.16 against 0.8 for Colorado. 
 This important difference shows how the political party of a state can be a factor on the difference of reaction and feeling expressed on twitter. 
-As the P values are above 0.05, we can state that there is a correlation between both datas. The political party is linked to 
+As the P values are above 0.05, we can state that there is a correlation between both datas. The political party is linked to the magnitude of the emotion expressed 
+on twitter. The negative emotions are expressed, and therefore felt more strongly from the voters of the Republican party.
 
 Analysing Hexbin’s visualisation of Colorado and Utah enables to see the strength of the sentiment expressed in the tweets. 
 In the graph, the more the hexagon is high, the more the sentiment expressed defines a high emotion throughout the month of april. 
