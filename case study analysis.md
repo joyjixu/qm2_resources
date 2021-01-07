@@ -1,35 +1,18 @@
-This case study will focus on analyzing two states from a different political color, and try to see how the regulations put in place by the government of the state 
-affects the people’s sentiment expressed on twitter using graphs indicating the regulations linked with the sentimental analysis of tweets, and also the Hexbins
-dataset obtained after anaylsing the sentiment expressed on twitter, the magnitude and the number of tweets.
-We will focus on Utah and Colorado. Utah is a state that voted for the Republican party in 2020, while Colorado is a Democratic state.
-We randomly selected one strongly democrat state and one strongly republican state, in order to determine if political views played a role in the relationship 
-between twitter sentiment and Covid deaths.
+The following case study states with different political affiliations will be used to examine how the regulations put in place by the state government may affect the people’s sentiment expressed on Twitter regarding COVID-19. We use a hexbin visualisation and a graph with the time regulations are implemented and the the sentiment analysis of tweets. We will focus on Utah and Colorado. Utah is a state that voted for the Republican party in 2020, while Colorado is a Democratic state. We randomly selected one strongly Democrat state and one strongly Republican state (see method), in order to determine whether political views played a role in the relationship between Twitter sentiment and COVID-19 deaths.
 
-Mainly, along the month of April 2020 the sentiment expressed on twitter by the inhabitants of the different states has decreased overall, becoming more negative 
-than at the beginning of the month.This is due to the very significant increase in the number of deaths, April was a peak in the start of the spread of the 
-coronavirus in the United States.
+## Sentiment Score and Magnitude Per State
+Analysing the hexbin visualisations of Colorado and Utah, shown below, enables us to see the strength of the sentiment expressed in the tweets. For each state, the daily hexbins have been merged into in order to better see temporal variations throughout April 2020. 
 
-We can acknowledge rapidly the difference between the regulations by a politic and its impact. 
-The first point we can notice directly is how the democratic party in Colorado has impose way more regulations than in Utah, 18 regulations in a month while only 8 
-in the Republican state. The average sentiment is related to regulations, even more in the Democratic state of Colorado; as we can see, nearly each time a 
-regulation is stated, the average twitter sentiment drastically decrease. For instance, the average twitter sentiment in Colorado has been from -1.155 to more 
-than -1.18. An important decrease of the sentiment expressed on twitter can also be seen in the state of Utah. However, it is not possible to establish a real 
-correlation between the regulations and the sentiment felt and expressed on twitter because out of the 8 regulations implemented in April, 4 generated a decrease 
-in sentiment and 4 an increase. The link between those two factors is therefore unclear.
- 
-We can see that the curves between the two states put side by side are generally similar despite some nuances. 
-We notice that the two states are close, the state of Utah turns between -0.09 and -0.25, while for Colorado which varies between -0.12 and -0.2. 
-The standard deviation of Utah is greater than 0.16 against 0.8 for Colorado. 
-This important difference shows how the political party of a state can be a factor on the difference of reaction and feeling expressed on twitter. 
-As the P values are above 0.05, we can state that there is a correlation between both datas. The political party is linked to the magnitude of the emotion expressed 
-on twitter. The negative emotions are expressed, and therefore felt more strongly from the voters of the Republican party.
+In the hexbin, the higher up a hexagon is, the higher the magnitude of a tweet in that category, while sentiment varies from -1 to +1 on the x-axis. Thus, hexagons in the bottom-middle represent more factual tweets (low emotional magnitude and neutral sentiment), whereas tweets in the upper-left and upper-right sections correspond to more emotional negative and positive tweets respectively. The darker the colour, the more tweets in that category, as can be seen through the colour bar to the right. It is important to note one limitation: the colour bars of both states do not have the same scale, as there were many more tweets from Colorado than Utah overall. If the scales were the same, the would have been unable to see clear variations as the colour intensity for Utah would have been too light.
 
-Analysing Hexbin’s visualisation of Colorado and Utah enables to see the strength of the sentiment expressed in the tweets. 
-In the graph, the more the hexagon is high, the more the sentiment expressed defines a high emotion throughout the month of april. 
-When comparing both states, it is clear that Utah’s resident demonstrate some strongest emotions, reaching a magnitude 25 in negative emotions and with a high 
-number of tweet counts. Colorado’s state expresses important emotions but they remain less high, reaching a maximum of 20 only once. These two graphs show an 
-important difference between the two states in the way they express their emotions about the covid. This proves that the political party can have an impact, a 
-critical part of the Republican voters havenotbeen taking the covid pandemic since the beginning of the spread and have acted less responsibly, this is illustrated 
-in these graphs, where we can see stronger emotions, and more tweets on the subject.
+From above, we can see that the darkest hexagons are in the bottom-centre: both states have a majority of factual tweets on COVID-19, confirming what we have found in our summary analysis. Moreover, the colour is concentrated on the left side, suggesting that for both Utah and Colorado, discussion of COVID-19 on Twitter remains mostly negative. When comparing both states, Utah’s tweets appear to demonstrate stronger negative emotions, reaching higher magnitudes for negative emotions and on some days having similar darkness/density for factual and negative tweets. Colorado's emotional magnitude but they remain less high, reaching a maximum of 20 only once. However, we must remember that the difference in the colour bar scale means that we cannot accurately compare the number of tweets, only the relative distribution.
 
+These two graphs suggest a difference between the two states in the way they express their emotions on Twitter about COVID-19. This leads us to suggest that Republican states appear to be more critical. In order to ensure this is generalizable, we would need to analyse the sentiment distributions of more Republican and Democrat states and normalize the tweet count for each. Possibly, we could then infer a stronger link between political affiliation and attitude on COVID-19.
 
+## Regulations
+
+The graphs below show the change in sentiment over the month of April in 2020, with the dates that state-imposed COVID-19 regulations shown on the dates that they have been implemented. Hover over the interactive graph to find specific information about the imposed regulations.
+
+From the graphs above, we can see the difference between the regulations and its impact per state. The first point we can notice is how the democratic party in Colorado has imposed more regulations than in Utah, 18 regulations in a month while only 8 in the Republican state. The average sentiment is related to regulations, even more in the Democratic state of Colorado; as we can see, nearly each time a regulation is stated, the average twitter sentiment drastically decrease. For instance, the average twitter sentiment in Colorado has been from -1.155 to more than -1.18. An important decrease of the sentiment expressed on twitter can also be seen in the state of Utah. However, it is not possible to establish a real correlation between the regulations and the sentiment felt and expressed on twitter because out of the 8 regulations implemented in April, 4 generated a decrease in sentiment and 4 an increase. The link between those two factors is therefore unclear.
+
+We can use a statistical tool called 'Point-biserial correlation coefficient' to measure the strength and direction of the association that exists. For both states, the value is close to 0, at a p-value above 0.05. This means that there is no statistically significant relationship between the state regulations and sentiment scores for our sample of tweets in the month of April 2020 for Utah and Colorado. Perhaps this is because twitter users are reacting to news of regulations in other states or around the world, and thus fluctuations in sentiment cannot be fully understood by limiting analysis to just state-imposed regulations. Furthermore, these are just two case studies, and further analysis on the remaining states may show a statistically significant relationship between sentiment score and regulations. It would then be interesting to outline why some states have a greater reaction to state-imposed regulations. It may be due to political differences, as initially suggested in this study, but in reality it could be a complex array of factors.
