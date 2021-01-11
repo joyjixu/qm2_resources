@@ -6,7 +6,7 @@ Initial graphs generated using the matplotlib library
 Notebook for Sentiment Analysis with Google Cloud Natural Language API
 
 ### make_chloropleth_slider.ipynb
-Notebook to maje visualization of chlrorpleth map with average sentiment and slider for days
+Notebook to make visualization of choropleth map with average sentiment and slider for days
 
 ### month_violin.ipynb
 Notebook to make vioin distributions of sentiment and magnitude for all of April (daily_violin.ipynb was a preliminary test using a day's worth of tweets)
@@ -24,7 +24,7 @@ Notebook to aggregate individual tweet sentiment and magnitude as averages
 Notebook for Sentiment Analysis with Google Cloud Natural Language API
 
 ### month_chloropleth.ipynb
-Notebook to plot month average sentiment chloropleth with plotly (no slider)
+Notebook to plot month average sentiment choropleth with plotly (no slider)
 
 ### sentiment_stats.ipynb and sentiment_stats_plotly.ipynb
 Notebooks to plot initial exploratory graphs/plots on sentiment
