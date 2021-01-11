@@ -13,7 +13,7 @@ Resources for QM2 2020 Project
 * notebook for plotting and calculating correlation between twitter sentiment & deaths/cases: correlation.ipynb
 * notebook to plot violin graphs with plotly: month_violin.ipynb (daily_violin.ipynb was a preliminary test using a day's worth of tweets)
 * notebook to plot month average sentiment chloropleth with plotly: month_chloropleth.ipynb (no slider)
-* code for summary stats on covid cases and deaths
+* notebook to make visualization of chloropleth map with average sentiment and slider for days: make_chloropleth_slider.ipynb
 * folder: covid_stats (notebooks to plot preliminary graphs on covid deaths and cases)
 * folder: case_studies (notebooks to plot regulation data & hexbins for Utah and Colorado, and to randomly select states)
 * folder: select_nlp_lib (notebooks to determine what methods to use for sentiment analysis, & manually labeled sample tweets)
