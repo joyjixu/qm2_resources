@@ -5,10 +5,28 @@ Initial graphs generated using the matplotlib library
 ### get_tweet_sentiment.ipynb
 Notebook for Sentiment Analysis with Google Cloud Natural Language API
 
-### sentiment_analysis_notes_and_limitations.md
-Initial research of limitations of the libraries and sentiment analysis approaches in data analysis. This will be added to our methodology and literature reviews.
+### make_chloropleth_slider.ipynb
+Notebook to maje visualization of chlrorpleth map with average sentiment and slider for days
 
-## select_nlp_lib folder
+### month_violin.ipynb
+Notebook to make vioin distributions of sentiment and magnitude for all of April
+
+### get_tweet_sentiment.ipynb
+Notebook for Sentiment Analysis with Google Cloud Natural Language API
+
+### correlation.ipynb
+Notebook to plot sentiment and covid deaths over time, and to find Pearson's correlation
+
+### average_sentiment.ipynb
+Notebook to aggregate individual tweet sentiment and magnitude as averages
+
+### get_tweet_sentiment.ipynb
+Notebook for Sentiment Analysis with Google Cloud Natural Language API
+
+### sentiment_stats.ipynb and sentiment_stats_plotly.ipynb
+Notebooks to plot initial exploratory graphs/plots on sentiment
+
+## Folder: select_nlp_lib
 
 ### nlp_samples_unlabeled.csv
 Contains 200 tweets with the respective sentiment score from three libraries: textblob, NLTK, and Google, without researcher labels.
