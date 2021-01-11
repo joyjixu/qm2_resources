@@ -1,16 +1,16 @@
-Background & Context
+# Background & Context
 The COVID-19 pandemic has caused global disruption, with many countries using state-imposed regulation to curtail the spread of the virus (Parmet, 2020). With social distancing measures and public gatherings being wholly or partly prohibited on a global-scale, social media platforms have been increasingly used as a digital space to spread news and opinions about COVID-19 and the associated policies (Hagg, 2018).
 Twitter in particular is an important medium for collecting real-time information of public perception of risk towards COVID-19 (Eysenbach, 2020). To leverage this important resource, we must understand if there is a relationship between the public perception of the virus (measured through Sentiment Analysis of Tweets) and the reality of the virus (measured using cases, deaths and regulations).
 
-Literature Review
-Introduction 
+# Literature Review
+## Introduction 
 
 The coronavirus disease (COVID-19) outbreak was declared a public health emergency of international concern (PHEIC) by the World Health Organization (WHO) on 30 January 2020 (World Health Organization, 2020). Countries were advised by the World Health Organization to enforce social distancing and quarantines to curtail the virus (Wang et al., 2020). During this time, the social media platform Twitter continued to grow as a digital space where facts, news, and opinions about the pandemic have spread (Saud et al., 2020). This includes public health information by governments and health agencies, as well as the emotions, experiences and news spread by the public (Hagg et al., 2018). Thus, analysing this data yields important opportunities for understanding public perception of the COVID-19 pandemic (Damiano and Catellier, 2020).
 
 Perception of tweets is understood by analysing the language, emotion and tone. A useful tool to analyse large data sets of tweets is sentiment analysis, which “attempts to determine the overall attitude (positive or negative) expressed within the text”. A score of the magnitude is also produced, which provides a numerical representation of the emotion in a text. A lower number indicates more factual tweets whereas a higher number indicates more emotional ones (D’Andrea, 2017).
 
 
-Existing Literature
+## Existing Literature
 
 The majority of literature applying sentiment analysis to Twitter focuses on the commercial uses of tracking consumer reactions to products and services (Drus and Khalid, 2019). However, there is a growing body of literature focused on Infodemiology. This is defined as “the science of distribution [...] of information in an electronic medium, specifically the Internet, or in a population, with the ultimate aim to inform public health and public policy” (Eysenbach, 2009). Eysenbach and Chew’s research on the 2009 Swine Flu (H1N1) pandemic demonstrates a promising use of Twitter data in understanding the public perception in health crises under this area of research. They found that tweets relating to the H1N1 pandemic were primarily used to share news sources and were of a factual nature, as people turned to Twitter for news on the pandemic. Thus, there are potential applications in the COVID-19 pandemic. 
 
@@ -27,9 +27,7 @@ One of the largest scale studies analysed 4 million Twitter messages with hashta
 Figure 1 affirms this, as it demonstrates how external factors, such as announcements of lockdowns in Italy and first reported deaths cause rises in the number of related tweets. This demonstrates how the reality of COVID-19 had some relationship with the sentiment (Chen, 2020). These studies, however, did not execute a statistical score to understand the relationship between regulation and sentiment, so it is difficult to interpret whether there is a statistical correlation.
 
 
-
-
-Our research
+## Our research
 Informed by the existing literature, we have identified shortfalls in the methodology and gaps in knowledge where new research would be valuable. We will examine the public perception (sentiment) towards COVID-19 compared with the reality of deaths and cases in the month of April to understand how the public reacted to the severity of the pandemic. We will also examine how the imposition of regulations at the state level affect sentiment, or whether this provokes a greater emotional or negative response. As the pandemic-related stigma (Ahmed et al., 2020) , and fear (Xue et al., 2020) has shown to be increasing, it is important to have real-time data to understand public trust. We have selected the US rather than looking at a global scale, like in Manguri’s research, as this will provide more relevant information that is contextualised. Given the time restrictions and scope of our research, we will focus on the month of April, as this is long enough to see the temporal distribution of data. April is also the month that coincided with the first peak of the virus, as well as significant regulations (Bergquist et al., 2020). 
 
 This study fits into the wider academic discourse surrounding the interdisciplinary field of infodemiology. The research may be useful for policy makers in understanding when to implement regulations to combat future waves or even new pandemics. They should do so with public perception in mind, as this will impact whether the guidance, precautions and regulations deployed by governments are adhered to, and ultimately the spread of COVID-19.
