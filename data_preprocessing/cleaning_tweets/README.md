@@ -12,7 +12,9 @@ To do this, we use an executable application called [Hydrator](https://github.co
 We created a Colab notebook to then clean the tweets. This includes only keeping tweets with a location attached, filtering the location so that it must contain a US state, and adding a column indicating what state the tweet is from in a standard format (state initials).
 The libraries we used are Pandas, NumPy and Regex.
 
-### Google Colab Notebook Link
-* https://colab.research.google.com/drive/1aros8J5HKntPZG3UlTKTEhl7AuKhBLNm?usp=sharing
-* A copy of the notebook is also included in this folder
+### clean_tweets.ipynb
+* filters hydrated tweets for tweets with a US location in April 2020
+
+### merge_tweets.ipynb
+* merges csv of hourly cleaned tweets into one csv of tweets per day
 
