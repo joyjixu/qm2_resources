@@ -15,6 +15,6 @@ The libraries we used are Pandas, NumPy and Regex.
 ### clean_tweets.ipynb
 * filters hydrated tweets for tweets with a US location in April 2020
 
-### merge_tweets.ipynb
+### merge_tweets_days.ipynb
 * merges csv of hourly cleaned tweets into one csv of tweets per day
 
