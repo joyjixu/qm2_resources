@@ -32,6 +32,9 @@ Resources for QM2 2020 Project
 ### group_presentation
 * script and info on first group presentation
 
+#### requirments.txt
+* packages and versions used in the notebooks (for reproducibility)
+
 # qm2_graphs
 * html embeddings for the visualizations are available in a separate repo which is a github page to be able to link to website
 * https://github.com/joyjixu/qm2_graphs
